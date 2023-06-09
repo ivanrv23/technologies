@@ -39,13 +39,13 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto py-0">
-                    <a href="inicio" class="nav-item nav-link active">Inicio</a>
-                    <a href="nosotros" class="nav-item nav-link">Nosotros</a>
+                    <a class="nav-item nav-link active">Inicio</a>
+                    <a id="hola" href="nosotros" class="nav-item nav-link ">Nosotros</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Servicios</a>
                         <div class="dropdown-menu m-0">
-                            <a href="servicios" class="dropdown-item">Desarrollo Software</a>
-                            <a href="detail.html" class="dropdown-item">Aplicativos</a>
+                            <a href="servicios" class="dropdown-item ">Desarrollo Software</a>
+                            <a href="detail.html" class="dropdown-item ">Aplicativos</a>
                         </div>
                     </div>
                     <div class="nav-item dropdown">

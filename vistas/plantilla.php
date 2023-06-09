@@ -83,6 +83,7 @@
 
     <!-- Template Javascript -->
     <script src="vistas/js/main.js"></script>
+    <script src="vistas/js/funciones.js"></script>
 </body>
 
 </html>
