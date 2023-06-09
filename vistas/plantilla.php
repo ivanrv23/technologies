@@ -50,7 +50,8 @@
     if (isset($_GET["ruta"])) {
         if (
             $_GET["ruta"] == "inicio" ||
-            $_GET["ruta"] == "servicios"
+            $_GET["ruta"] == "servicios" ||
+            $_GET["ruta"] == "nosotros" 
         ) {
 
             include "modulos/" . $_GET["ruta"] . ".php";
