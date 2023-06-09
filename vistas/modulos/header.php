@@ -39,27 +39,27 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto py-0">
-                    <a href="inicio" class="nav-item nav-link active">Home</a>
-                    <a href="about.html" class="nav-item nav-link">About</a>
-                    <a href="servicios" class="nav-item nav-link">Services</a>
+                    <a href="inicio" class="nav-item nav-link active">Inicio</a>
+                    <a href="nosotros" class="nav-item nav-link">Nosotros</a>
                     <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Blog</a>
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Servicios</a>
                         <div class="dropdown-menu m-0">
-                            <a href="blog.html" class="dropdown-item">Blog Grid</a>
-                            <a href="detail.html" class="dropdown-item">Blog Detail</a>
+                            <a href="servicios" class="dropdown-item">Desarrollo Software</a>
+                            <a href="detail.html" class="dropdown-item">Aplicativos</a>
                         </div>
                     </div>
                     <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Proyectos</a>
                         <div class="dropdown-menu m-0">
-                            <a href="price.html" class="dropdown-item">Pricing Plan</a>
-                            <a href="feature.html" class="dropdown-item">Our features</a>
-                            <a href="team.html" class="dropdown-item">Team Members</a>
-                            <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                            <a href="quote.html" class="dropdown-item">Free Quote</a>
+                            <a href="price.html" class="dropdown-item">MAINTEKH</a>
+                            <a href="feature.html" class="dropdown-item">LOGTEKH</a>
+                            <a href="team.html" class="dropdown-item">GEOMEKH</a>
+                            <a href="testimonial.html" class="dropdown-item">MINERAL TEST</a>
+                            <a href="quote.html" class="dropdown-item">CHATBOT</a>
                         </div>
                     </div>
-                    <a href="contact.html" class="nav-item nav-link">Contact</a>
+                    <a href="tienda" class="nav-item nav-link">Tienda</a>
+                    <a href="contacto" class="nav-item nav-link">Contacto</a>
                 </div>
                 <butaton type="button" class="btn text-primary ms-3" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fa fa-search"></i></butaton>
                 <a href="https://htmlcodex.com/startup-company-website-template" class="btn btn-primary py-2 px-4 ms-3">Download Pro Version</a>
