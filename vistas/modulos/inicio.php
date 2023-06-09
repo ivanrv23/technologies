@@ -159,7 +159,7 @@
                             <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
                                 <i class="fa fa-cubes text-white"></i>
                             </div>
-                            <h4>Best In Industry</h4>
+                            <h4>Orienta</h4>
                             <p class="mb-0">Magna sea eos sit dolor, ipsum amet lorem diam dolor eos et diam dolor</p>
                         </div>
                         <div class="col-12 wow zoomIn" data-wow-delay="0.6s">
