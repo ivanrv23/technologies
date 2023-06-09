@@ -52,7 +52,9 @@
             $_GET["ruta"] == "inicio" ||
             $_GET["ruta"] == "desarrollo-software" ||
             $_GET["ruta"] == "aplicativo-movil" ||
-            $_GET["ruta"] == "nosotros" 
+            $_GET["ruta"] == "nosotros" ||
+            $_GET["ruta"] == "contacto" 
+
         ) {
 
             include "modulos/" . $_GET["ruta"] . ".php";
