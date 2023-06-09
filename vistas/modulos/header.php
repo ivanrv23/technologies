@@ -44,8 +44,8 @@
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Servicios</a>
                         <div class="dropdown-menu m-0">
-                            <a href="servicios" class="dropdown-item ">Desarrollo Software</a>
-                            <a href="detail.html" class="dropdown-item ">Aplicativos</a>
+                            <a href="desarrollo-software" class="dropdown-item">Desarrollo Software</a>
+                            <a href="aplicativo-movil" class="dropdown-item">Aplicativos</a>
                         </div>
                     </div>
                     <div class="nav-item dropdown">
