@@ -1,11 +1,7 @@
 <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
             <div class="row py-5">
                 <div class="col-12 pt-lg-5 mt-lg-5 text-center">
-                    <h1 class="display-4 text-white animated zoomIn">About Us</h1>
-                    <a href="" class="h5 text-white">Home</a>
-                    <i class="far fa-circle text-white px-2"></i>
-                    <a href="" class="h5 text-white">About</a>
-                </div>
+                    <h1 class="display-4 text-white animated zoomIn">NOSOTROS</h1>
             </div>
         </div>
     </div>
@@ -97,8 +93,8 @@
                             </div>
                         </div>
                         <div class="text-center py-4">
-                            <h4 class="text-primary">Ronal Iván Ramos Vázques </h4>
-                            <p class="text-uppercase m-0">Desarrollador senior</p>
+                            <h4 class="text-primary">Ronal Iván Ramos Vásquez</h4>
+                            <p class="text-uppercase m-0">Desarrollador FullStack</p>
                         </div>
                     </div>
                 </div>
@@ -115,7 +111,7 @@
                         </div>
                         <div class="text-center py-4">
                             <h4 class="text-primary">Christian Aquino Llico</h4>
-                            <p class="text-uppercase m-0">Desarrollador senior</p>
+                            <p class="text-uppercase m-0">Director de Proyectos</p>
                         </div>
                     </div>
                 </div>
@@ -132,7 +128,7 @@
                         </div>
                         <div class="text-center py-4">
                             <h4 class="text-primary">Alciviades Cueva Estela</h4>
-                            <p class="text-uppercase m-0">Desarrollador senior</p>
+                            <p class="text-uppercase m-0">Desarrollador FullStack</p>
                         </div>
                     </div>
                 </div>
