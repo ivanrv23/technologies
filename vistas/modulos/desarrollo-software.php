@@ -1,10 +1,7 @@
 <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
             <div class="row py-5">
                 <div class="col-12 pt-lg-5 mt-lg-5 text-center">
-                    <h1 class="display-4 text-white animated zoomIn">Servicios</h1>
-                    <a href="inicio" class="h5 text-white">Inicio</a>
-                    <i class="far fa-circle text-white px-2"></i>
-                    <a href="desarrollo-software" class="h5 text-white">Software</a>
+                    <h1 class="display-1 text-white animated zoomIn">SOFTWARE</h1>
                 </div>
             </div>
         </div>
@@ -103,7 +100,7 @@
                     <div class="position-relative bg-primary rounded h-100 d-flex flex-column align-items-center justify-content-center text-center p-5">
                         <h3 class="text-white mb-3">Contáctate con nosotros</h3>
                         <p class="text-white mb-3">Escríbenos sin ningún compromiso al WhatsApp o por nuestras redes sociales</p>
-                        <h2 class="text-white mb-0">+51 999 345 6789</h2>
+                        <h2 class="text-white mb-0">+51 997 226 188</h2>
                     </div>
                 </div>
             </div>

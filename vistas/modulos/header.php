@@ -19,7 +19,7 @@
            
             <div class="col-lg-4 text-center text-lg-end">
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-twitter fw-normal"></i></a>
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-brands fa-whatsapp"></i></a>
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-linkedin-in fw-normal"></i></a>
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-instagram fw-normal"></i></a>
@@ -40,7 +40,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto py-0">
-                    <a class="nav-item nav-link active">Inicio</a>
+                    <a href="inicio" class="nav-item nav-link active">Inicio</a>
                     <a id="hola" href="nosotros" class="nav-item nav-link ">Nosotros</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Servicios</a>
@@ -52,7 +52,7 @@
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Proyectos</a>
                         <div class="dropdown-menu m-0">
-                            <a href="price.html" class="dropdown-item">MAINTEKH</a>
+                            <a href="maintekh" class="dropdown-item">MAINTEKH</a>
                             <a href="feature.html" class="dropdown-item">LOGTEKH</a>
                             <a href="team.html" class="dropdown-item">GEOMEKH</a>
                             <a href="testimonial.html" class="dropdown-item">MINERAL TEST</a>
