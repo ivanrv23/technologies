@@ -623,15 +623,15 @@
         <div class="container py-5 mb-5">
             <div class="bg-white">
                 <div class="owl-carousel vendor-carousel">
-                    <img src="vistas/img/vendor-1.jpg" alt="">
-                    <img src="vistas/img/vendor-2.jpg" alt="">
-                    <img src="vistas/img/vendor-3.jpg" alt="">
-                    <img src="vistas/img/vendor-4.jpg" alt="">
-                    <img src="vistas/img/vendor-5.jpg" alt="">
-                    <img src="vistas/img/vendor-6.jpg" alt="">
-                    <img src="vistas/img/vendor-7.jpg" alt="">
-                    <img src="vistas/img/vendor-8.jpg" alt="">
-                    <img src="vistas/img/vendor-9.jpg" alt="">
+                    <img src="vistas/img/academy.png" alt="Cliente">
+                    <img src="vistas/img/alliance.png" alt="Cliente">
+                    <img src="vistas/img/celcom.jpg" alt="Cliente">
+                    <img src="vistas/img/incuba.jpg" alt="Cliente">
+                    <img src="vistas/img/inicia.jpg" alt="Cliente">
+                    <img src="vistas/img/roycell.jpg" alt="Cliente">
+                    <img src="vistas/img/trainers.png" alt="Cliente">
+                    <img src="vistas/img/vendor-8.jpg" alt="Cliente">
+                    <img src="vistas/img/vendor-9.jpg" alt="Cliente">
                 </div>
             </div>
         </div>

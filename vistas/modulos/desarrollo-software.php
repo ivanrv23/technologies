@@ -168,26 +168,5 @@
             </div>
         </div>
     </div>
-    <!-- Testimonial End -->
-
-
-    <!-- Vendor Start -->
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container py-5 mb-5">
-            <div class="bg-white">
-                <div class="owl-carousel vendor-carousel">
-                    <img src="vistas/img/academy.png" alt="Cliente">
-                    <img src="vistas/img/alliance.png" alt="Cliente">
-                    <img src="vistas/img/celcom.jpg" alt="Cliente">
-                    <img src="vistas/img/incuba.jpg" alt="Cliente">
-                    <img src="vistas/img/inicia.jpg" alt="Cliente">
-                    <img src="vistas/img/roycell.jpg" alt="Cliente">
-                    <img src="vistas/img/trainers.png" alt="Cliente">
-                    <img src="vistas/img/vendor-8.jpg" alt="Cliente">
-                    <img src="vistas/img/vendor-9.jpg" alt="Cliente">
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Vendor End -->
+    <!-- Testimonial End --> 
     

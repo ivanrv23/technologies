@@ -1,7 +1,7 @@
 <div class="container-fluid bg-primary py-5 bg-header-maintekh" style="margin-bottom: 90px;">
     <div class="row py-5">
         <div class="col-12 pt-lg-5 mt-lg-5 text-center">
-            <h1 class="display-1 text-white animated zoomIn">MAINTEKH</h1>
+            <h1 class="display-1 text-white animated zoomIn">MÁS PROYECTOS</h1>
         </div>
     </div>
 </div>
@@ -38,8 +38,8 @@
         <div class="row g-5">
             <div class="col-lg-7">
                 <div class="section-title position-relative pb-3 mb-5">
-                    <h5 class="fw-bold text-primary text-uppercase">Nuestro Sistema</h5>
-                    <h1 class="mb-0">Gestiona tus mantenimientos de foma óptima</h1>
+                    <h5 class="fw-bold text-primary text-uppercase">CHATBOT</h5>
+                    <h1 class="mb-0">Creamos tu chatbot personalizado</h1>
                 </div>
                 <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod magna dolore erat amet</p>
                 <div class="row g-0 mb-3">
