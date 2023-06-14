@@ -63,6 +63,6 @@
                     <a href="contacto" class="nav-item nav-link">Contacto</a>
                 </div>
                 <butaton type="button" class="btn text-primary ms-3" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fa fa-search"></i></butaton>
-                <a href="https://htmlcodex.com/startup-company-website-template" class="btn btn-primary py-2 px-4 ms-3">Download Pro Version</a>
+                <a href="https://web.whatsapp.com" target="_blank" class="btn btn-success py-2 px-3 ms-3">Chatear <i class="fab fa-brands fa-whatsapp"></i></a>
             </div>
         </nav>
