@@ -119,7 +119,7 @@
             <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.6s">
                 <div class="testimonial-item bg-light my-4">
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
-                        <img class="img-fluid rounded" src="vistas/img/testimonial-1.jpg" style="width: 60px; height: 60px;" >
+                        <img class="h-30 rounded" src="vistas/img/testimonial-1.jpg" style="width: 60px; height: 60px;" >
                         <div class="ps-4">
                             <h4 class="text-primary mb-1">Ronal Ramos</h4>
                             <small class="text-uppercase">Ingeniero de Sistemas</small>
@@ -131,7 +131,7 @@
                 </div>
                 <div class="testimonial-item bg-light my-4">
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
-                        <img class="img-fluid rounded" src="vistas/img/testimonial-2.jpg" style="width: 60px; height: 60px;" >
+                        <img class="h-30 rounded" src="vistas/img/testimonial-2.jpg" style="width: 60px; height: 60px;" >
                         <div class="ps-4">
                             <h4 class="text-primary mb-1">Client Name</h4>
                             <small class="text-uppercase">Profession</small>
@@ -143,7 +143,7 @@
                 </div>
                 <div class="testimonial-item bg-light my-4">
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
-                        <img class="img-fluid rounded" src="vistas/img/testimonial-3.jpg" style="width: 60px; height: 60px;" >
+                        <img class="h-30 rounded" src="vistas/img/testimonial-3.jpg" style="width: 60px; height: 60px;" >
                         <div class="ps-4">
                             <h4 class="text-primary mb-1">Client Name</h4>
                             <small class="text-uppercase">Profession</small>
@@ -155,7 +155,7 @@
                 </div>
                 <div class="testimonial-item bg-light my-4">
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
-                        <img class="img-fluid rounded" src="vistas/img/testimonial-4.jpg" style="width: 60px; height: 60px;" >
+                        <img class="h-30 rounded" src="vistas/img/testimonial-4.jpg" style="width: 60px; height: 60px;" >
                         <div class="ps-4">
                             <h4 class="text-primary mb-1">Client Name</h4>
                             <small class="text-uppercase">Profession</small>
@@ -176,15 +176,15 @@
         <div class="container py-5 mb-5">
             <div class="bg-white">
                 <div class="owl-carousel vendor-carousel">
-                    <img src="vistas/img/vendor-1.jpg" alt="">
-                    <img src="vistas/img/vendor-2.jpg" alt="">
-                    <img src="vistas/img/vendor-3.jpg" alt="">
-                    <img src="vistas/img/vendor-4.jpg" alt="">
-                    <img src="vistas/img/vendor-5.jpg" alt="">
-                    <img src="vistas/img/vendor-6.jpg" alt="">
-                    <img src="vistas/img/vendor-7.jpg" alt="">
-                    <img src="vistas/img/vendor-8.jpg" alt="">
-                    <img src="vistas/img/vendor-9.jpg" alt="">
+                    <img src="vistas/img/academy.png" alt="Cliente">
+                    <img src="vistas/img/alliance.png" alt="Cliente">
+                    <img src="vistas/img/celcom.jpg" alt="Cliente">
+                    <img src="vistas/img/incuba.jpg" alt="Cliente">
+                    <img src="vistas/img/inicia.jpg" alt="Cliente">
+                    <img src="vistas/img/roycell.jpg" alt="Cliente">
+                    <img src="vistas/img/trainers.png" alt="Cliente">
+                    <img src="vistas/img/vendor-8.jpg" alt="Cliente">
+                    <img src="vistas/img/vendor-9.jpg" alt="Cliente">
                 </div>
             </div>
         </div>
