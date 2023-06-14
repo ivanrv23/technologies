@@ -5,8 +5,6 @@
     --light: #EEF9FF;
     --dark: #091E3E;
 }
-
-
 /*** Spinner ***/
 .spinner {
     width: 40px;
@@ -134,6 +132,19 @@ h6,
     font-weight: 600;
     outline: none;
     transition: .5s;
+}
+
+.navbar-dark .navbar-brand .logoCabeceraNegro {
+    display: none;
+}
+.sticky-top.navbar-dark.navbar-dark .navbar-brand .logoCabeceraNegro {
+    display: block;
+}
+.navbar-dark .navbar-brand .logoCabeceraBlanco {
+    display: block;
+}
+.sticky-top.navbar-dark.navbar-dark .navbar-brand .logoCabeceraBlanco {
+    display: none;
 }
 
 .sticky-top.navbar-dark .navbar-nav .nav-link {

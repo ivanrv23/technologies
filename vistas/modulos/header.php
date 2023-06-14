@@ -33,8 +33,8 @@
         <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
             <a href="index.html" class="navbar-brand p-0">
                 <!-- <h1 class="m-0"><i class="fa fa-user-tie me-2"></i>Startup</h1> -->
-                <img class="img-fluid rounded" src="vistas/img/logo-technologies-n.png" id="logoNegro">
-                <img class="img-fluid rounded" src="vistas/img/logo-technologies-b.png" id="logoBlanco">
+                <img class="img-fluid rounded logoCabeceraNegro" src="vistas/img/logo-technologies-n.png">
+                <img class="img-fluid rounded logoCabeceraBlanco" src="vistas/img/logo-technologies-b.png">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                 <span class="fa fa-bars"></span>
