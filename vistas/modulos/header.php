@@ -51,7 +51,7 @@
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Proyectos</a>
                         <div class="dropdown-menu m-0">
-                            <a href="price.html" class="dropdown-item">MAINTEKH</a>
+                            <a href="maintekh" class="dropdown-item">MAINTEKH</a>
                             <a href="feature.html" class="dropdown-item">LOGTEKH</a>
                             <a href="team.html" class="dropdown-item">GEOMEKH</a>
                             <a href="testimonial.html" class="dropdown-item">MINERAL TEST</a>
