@@ -53,7 +53,8 @@
             $_GET["ruta"] == "desarrollo-software" ||
             $_GET["ruta"] == "aplicativo-movil" ||
             $_GET["ruta"] == "nosotros" ||
-            $_GET["ruta"] == "contacto" 
+            $_GET["ruta"] == "contacto" ||
+            $_GET["ruta"] == "maintekh"
 
         ) {
 
