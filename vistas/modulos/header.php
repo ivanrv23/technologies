@@ -54,16 +54,16 @@
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Proyectos</a>
                         <div class="dropdown-menu m-0">
                             <a href="maintekh" class="dropdown-item">MAINTEKH</a>
-                            <a href="feature.html" class="dropdown-item">LOGTEKH</a>
-                            <a href="team.html" class="dropdown-item">GEOMEKH</a>
-                            <a href="testimonial.html" class="dropdown-item">MINERAL TEST</a>
-                            <a href="quote.html" class="dropdown-item">CHATBOT</a>
+                            <a href="logtekh" class="dropdown-item">LOGTEKH</a>
+                            <a href="geomekh" class="dropdown-item">GEOMEKH</a>
+                            <a href="mineral-test" class="dropdown-item">MINERAL TEST</a>
+                            <a href="mantenimiento" class="dropdown-item">SISTEMA TRUJILLO</a>
+                            <a href="otros-proyectos" class="dropdown-item">OTROS</a>
                         </div>
                     </div>
                     <a href="tienda" class="nav-item nav-link">Tienda</a>
                     <a href="contacto" class="nav-item nav-link">Contacto</a>
                 </div>
-                <butaton type="button" class="btn text-primary ms-3" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fa fa-search"></i></butaton>
                 <a href="https://web.whatsapp.com" target="_blank" class="btn btn-success py-2 px-3 ms-3">Chatear <i class="fab fa-brands fa-whatsapp"></i></a>
             </div>
         </nav>
