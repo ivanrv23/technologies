@@ -31,7 +31,7 @@
     <!-- Topbar End -->
     <div class="container-fluid position-relative p-0">
         <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
-            <a href="index.html" class="navbar-brand p-0">
+            <a href="inicio" class="navbar-brand p-0">
                 <!-- <h1 class="m-0"><i class="fa fa-user-tie me-2"></i>Startup</h1> -->
                 <img class="img-fluid rounded logoCabeceraNegro" src="vistas/img/logo-technologies-n.png">
                 <img class="img-fluid rounded logoCabeceraBlanco" src="vistas/img/logo-technologies-b.png">
@@ -41,28 +41,28 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto py-0">
-                    <a href="inicio" class="nav-item nav-link active">Inicio</a>
-                    <a id="hola" href="nosotros" class="nav-item nav-link ">Nosotros</a>
+                    <a id="inicio" href="inicio" class="nav-item nav-link">Inicio</a>
+                    <a id="nosotros" href="nosotros" id="nst" class="nav-item nav-link ">Nosotros</a>
                     <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Servicios</a>
+                        <a id="servicios" href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Servicios</a>
                         <div class="dropdown-menu m-0">
-                            <a href="desarrollo-software" class="dropdown-item">Desarrollo Software</a>
-                            <a href="aplicativo-movil" class="dropdown-item">Aplicativos</a>
+                            <a id="desarrollo-software" href="desarrollo-software" class="dropdown-item">Desarrollo Software</a>
+                            <a id="aplicativo-movil" href="aplicativo-movil" class="dropdown-item">Aplicativos</a>
                         </div>
                     </div>
                     <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Proyectos</a>
+                        <a id="proyectos" href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Proyectos</a>
                         <div class="dropdown-menu m-0">
-                            <a href="maintekh" class="dropdown-item">MAINTEKH</a>
-                            <a href="logtekh" class="dropdown-item">LOGTEKH</a>
-                            <a href="geomekh" class="dropdown-item">GEOMEKH</a>
-                            <a href="mineral-test" class="dropdown-item">MINERAL TEST</a>
-                            <a href="mantenimiento" class="dropdown-item">SISTEMA TRUJILLO</a>
-                            <a href="otros-proyectos" class="dropdown-item">OTROS</a>
+                            <a id="maintekh" href="maintekh" class="dropdown-item">MAINTEKH</a>
+                            <a id="logtekh" href="logtekh" class="dropdown-item">LOGTEKH</a>
+                            <a id="geomekh" href="geomekh" class="dropdown-item">GEOMEKH</a>
+                            <a id="mineral-test" href="mineral-test" class="dropdown-item">MINERAL TEST</a>
+                            <a id="mantenimiento" href="mantenimiento" class="dropdown-item">SISTEMA TRUJILLO</a>
+                            <a id="otros-proyectos" href="otros-proyectos" class="dropdown-item">OTROS</a>
                         </div>
                     </div>
-                    <a href="tienda" class="nav-item nav-link">Tienda</a>
-                    <a href="contacto" class="nav-item nav-link">Contacto</a>
+                    <a id="tienda" href="tienda" class="nav-item nav-link">Tienda</a>
+                    <a id="contacto" href="contacto" class="nav-item nav-link">Contacto</a>
                 </div>
                 <a href="https://web.whatsapp.com" target="_blank" class="btn btn-success py-2 px-3 ms-3">Chatear <i class="fab fa-brands fa-whatsapp"></i></a>
             </div>
