@@ -637,3 +637,8 @@
         </div>
     </div>
     <!-- Vendor End -->
+    <!-- marcar el menu -->
+    <!-- <script>
+        $('.sidebar ul li.active').removeClass('active');
+        $('#navfacturacion').addClass('active');
+    </script> -->
