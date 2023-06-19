@@ -598,7 +598,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                     <div class="blog-item bg-light rounded overflow-hidden">
                         <div class="blog-img position-relative overflow-hidden">
-                            <img class="img-fluid" src="vistas/img/blog-3.jpg" alt="">
+                            <img class="img-fluid" src="vistas/img/geomekh-mockup.png" alt="">
                             <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">GEOMEKH</a>
                         </div>
                         <div class="p-4">
@@ -615,8 +615,8 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                     <div class="blog-item bg-light rounded overflow-hidden">
                         <div class="blog-img position-relative overflow-hidden">
-                            <img class="img-fluid" src="vistas/img/blog-3.jpg" alt="">
-                            <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">MINERAL transparent</a>
+                            <img class="img-fluid" src="vistas/img/mineral-test-mockup.png" alt="">
+                            <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">MINERAL TEST</a>
                         </div>
                         <div class="p-4">
                             <div class="d-flex mb-3">
@@ -632,7 +632,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                     <div class="blog-item bg-light rounded overflow-hidden">
                         <div class="blog-img position-relative overflow-hidden">
-                            <img class="img-fluid" src="vistas/img/blog-3.jpg" alt="">
+                            <img class="img-fluid" src="vistas/img/sistema-trujillo-mockup.jpg" alt="">
                             <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">SISTEMA TRUJILLO</a>
                         </div>
                         <div class="p-4">
@@ -649,7 +649,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                     <div class="blog-item bg-light rounded overflow-hidden">
                         <div class="blog-img position-relative overflow-hidden">
-                            <img class="img-fluid" src="vistas/img/blog-3.jpg" alt="">
+                            <img class="img-fluid" src="vistas/img/sisvent-mockup.png" alt="">
                             <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">SISVENT</a>
                         </div>
                         <div class="p-4">
