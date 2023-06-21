@@ -11,21 +11,21 @@
 <!-- Imágenes Maintekh Start -->
 <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
     <div class="container">
-        <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.6s">
+        <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
             <div class="card testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/blog-1.jpg" alt="">
+            <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-1.jpg" alt="">
             </div>
             <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/blog-1.jpg" alt="">
+            <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-2.jpg" alt="">
             </div>
             <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/blog-1.jpg" alt="">
+            <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-3.jpg" alt="">
             </div>
             <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/blog-1.jpg" alt="">
+            <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-4.jpg" alt="">
             </div>
             <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/blog-1.jpg" alt="">
+            <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-5.jpg" alt="">
             </div>
         </div>
     </div>
