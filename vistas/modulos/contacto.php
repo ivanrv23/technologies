@@ -75,22 +75,22 @@
         </div>
         <div class="row g-5">
             <div class="col-lg-6 wow slideInUp" data-wow-delay="0.3s">
-                <form>
+                <form role="form">
                     <div class="row g-3">
                         <div class="col-md-6">
-                            <input type="text" class="form-control border-0 bg-light px-4" placeholder="Tu nombre" style="height: 55px;">
+                            <input type="text" id="nombreEnvioCorreo" class="form-control border-0 bg-light px-4" placeholder="Nombre y apellidos" style="height: 55px;">
                         </div>
                         <div class="col-md-6">
-                            <input type="email" class="form-control border-0 bg-light px-4" placeholder="Tu correo" style="height: 55px;">
+                            <input type="email" id="emailEnvioCorreo" class="form-control border-0 bg-light px-4" placeholder="Tu correo" style="height: 55px;">
                         </div>
                         <div class="col-12">
-                            <input type="text" class="form-control border-0 bg-light px-4" placeholder="Asunto" style="height: 55px;">
+                            <input type="text" id="asuntoEnvioCorreo" class="form-control border-0 bg-light px-4" placeholder="Asunto" style="height: 55px;">
                         </div>
                         <div class="col-12">
-                            <textarea class="form-control border-0 bg-light px-4 py-3" rows="4" placeholder="Mensaje"></textarea>
+                            <textarea id="mensajeEnvioCorreo" class="form-control border-0 bg-light px-4 py-3" rows="4" placeholder="Mensaje"></textarea>
                         </div>
                         <div class="col-12">
-                            <button class="btn btn-primary w-100 py-3" type="submit">ENVIAR</button>
+                            <button type="button" class="btn btn-primary w-100 py-3" onclick="enviarMensajeContacto()">ENVIAR</button>
                         </div>
                     </div>
                 </form>
@@ -109,15 +109,15 @@
     <div class="container py-5 mb-5">
         <div class="bg-white">
             <div class="owl-carousel vendor-carousel">
-                <img src="vistas/img/vendor-1.jpg" alt="">
-                <img src="vistas/img/vendor-2.jpg" alt="">
-                <img src="vistas/img/vendor-3.jpg" alt="">
-                <img src="vistas/img/vendor-4.jpg" alt="">
-                <img src="vistas/img/vendor-5.jpg" alt="">
-                <img src="vistas/img/vendor-6.jpg" alt="">
-                <img src="vistas/img/vendor-7.jpg" alt="">
-                <img src="vistas/img/vendor-8.jpg" alt="">
-                <img src="vistas/img/vendor-9.jpg" alt="">
+            <img src="vistas/img/academy.png" alt="Cliente">
+                    <img src="vistas/img/alliance.png" alt="Cliente">
+                    <img src="vistas/img/celcom.jpg" alt="Cliente">
+                    <img src="vistas/img/incuba.jpg" alt="Cliente">
+                    <img src="vistas/img/inicia.jpg" alt="Cliente">
+                    <img src="vistas/img/roycell.jpg" alt="Cliente">
+                    <img src="vistas/img/trainers.png" alt="Cliente">
+                    <img src="vistas/img/vendor-8.jpg" alt="Cliente">
+                    <img src="vistas/img/vendor-9.jpg" alt="Cliente">
             </div>
         </div>
     </div>
