@@ -80,11 +80,11 @@
                 <h5 class="fw-bold text-primary text-uppercase">Equipo de desarrolladores</h5>
                 <h1 class="mb-0">Nuestro stuff de profesionales esta listo para ayudar a tu empresa</h1>
             </div>
-            <div class="row g-5">
+            <div class="row g-12 ">
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                     <div class="team-item bg-light rounded overflow-hidden">
-                        <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="vistas/img/foto-ronal.jpg" alt="">
+                        <div class="team-img position-relative overflow-hidden text-center">
+                            <img class="img-fluid w-50" src="vistas/img//team/foto-ronal.jpg" alt="">
                             <div class="team-social">
                                 <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-twitter fw-normal"></i></a>
                                 <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
@@ -93,15 +93,15 @@
                             </div>
                         </div>
                         <div class="text-center py-4">
-                            <h4 class="text-primary">Ronal Iván Ramos Vásquez</h4>
+                            <h4 class="text-primary">Ronal I. Ramos Vásquez</h4>
                             <p class="text-uppercase m-0">Desarrollador FullStack</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.6s">
                     <div class="team-item bg-light rounded overflow-hidden">
-                        <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="vistas/img/foto-christian.png" alt="">
+                        <div class="team-img position-relative overflow-hidden text-center">
+                            <img class="img-fluid w-50" src="vistas/img/team/foto-christian.png" alt="">
                             <div class="team-social">
                                 <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-twitter fw-normal"></i></a>
                                 <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
@@ -117,8 +117,8 @@
                 </div>
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                     <div class="team-item bg-light rounded overflow-hidden">
-                        <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="vistas/img/foto-alci.jpeg" alt="">
+                        <div class="team-img position-relative overflow-hidden text-center">
+                            <img class="img-fluid w-50" src="vistas/img//team/foto-alci.jpeg" alt="">
                             <div class="team-social">
                                 <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-twitter fw-normal"></i></a>
                                 <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
@@ -143,15 +143,15 @@
         <div class="container py-5 mb-5">
             <div class="bg-white">
                 <div class="owl-carousel vendor-carousel">
-                    <img src="vistas/img/vendor-1.jpg" alt="">
-                    <img src="vistas/img/vendor-2.jpg" alt="">
-                    <img src="vistas/img/vendor-3.jpg" alt="">
-                    <img src="vistas/img/vendor-4.jpg" alt="">
-                    <img src="vistas/img/vendor-5.jpg" alt="">
-                    <img src="vistas/img/vendor-6.jpg" alt="">
-                    <img src="vistas/img/vendor-7.jpg" alt="">
-                    <img src="vistas/img/vendor-8.jpg" alt="">
-                    <img src="vistas/img/vendor-9.jpg" alt="">
+                <img src="vistas/img/logos/creditos-1.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-2.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-3.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-4.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-5.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-6.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-7.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-8.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-9.png" alt="Cliente" style="width: 170px; height: 100px;" >
                 </div>
             </div>
         </div>
