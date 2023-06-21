@@ -19,11 +19,11 @@
            
             <div class="col-lg-4 text-center text-lg-end">
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-brands fa-whatsapp"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-linkedin-in fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-instagram fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle" href=""><i class="fab fa-youtube fw-normal"></i></a>
+                    <!-- <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-brands fa-whatsapp"></i></a> -->
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.facebook.com/profile.php?id=100090164260037"><i class="fab fa-facebook-f fw-normal"></i></a>
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://pe.linkedin.com/in/geotekh-technologies-6b4190261"><i class="fab fa-linkedin-in fw-normal"></i></a>
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.instagram.com/geotekh_technologies"><i class="fab fa-instagram fw-normal"></i></a>
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle" href="https://www.youtube.com/@geotekhtechnologies"><i class="fab fa-youtube fw-normal"></i></a>
                 </div>
             </div>
         </div>
@@ -58,7 +58,7 @@
                             <a id="geomekh" href="geomekh" class="dropdown-item">GEOMEKH</a>
                             <a id="mineral-test" href="mineral-test" class="dropdown-item">MINERAL TEST</a>
                             <a id="mantenimiento" href="mantenimiento" class="dropdown-item">SISTEMA TRUJILLO</a>
-                            <a id="otros-proyectos" href="otros-proyectos" class="dropdown-item">OTROS</a>
+                            <a id="otros-proyectos" href="sisvent" class="dropdown-item">SISVENT</a>
                         </div>
                     </div>
                     <a id="tienda" href="tienda" class="nav-item nav-link">Tienda</a>

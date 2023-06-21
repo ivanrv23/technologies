@@ -2,7 +2,7 @@
     <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class="w-100" src="vistas/img/foto-04.jpg" alt="Image">
+                <img class="w-100" src="vistas/img/imagenes/foto-04.jpg" alt="Image">
                 <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                     <div class="p-3" style="max-width: 900px;">
                         <h5 class="text-white text-uppercase mb-3 animated slideInDown">Creatividad e Innovación</h5>
@@ -132,7 +132,7 @@
                             <h4 class="text-primary mb-0">+51 997 226 188</h4>
                         </div>
                     </div>
-                    <a href="quote.html" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Solicitar cotización</a>
+                    <a href="#sc" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Solicitar cotización</a>
                 </div>
                 <div class="col-lg-5" style="min-height: 500px;">
                     <div class="position-relative h-100">
@@ -297,7 +297,7 @@
 
 
     <!-- Pricing Plan Start -->
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <!-- <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
                 <h5 class="fw-bold text-primary text-uppercase">Nuestros planes</h5>
@@ -360,11 +360,12 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Pricing Plan End -->
 
 
     <!-- Quote Start -->
+    <div id="sc">   
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="row g-5">
@@ -405,9 +406,9 @@
                                 <div class="col-12">
                                     <select class="form-select bg-light border-0" style="height: 55px;">
                                         <option selected>Seleccione un servicio</option>
-                                        <option value="1">Service 1</option>
-                                        <option value="2">Service 2</option>
-                                        <option value="3">Service 3</option>
+                                        <option value="1">Desarrollo de Software</option>
+                                        <option value="2">Aplicativos</option>
+                                        <option value="3">Proyectos</option>
                                     </select>
                                 </div>
                                 <div class="col-12">
@@ -422,6 +423,7 @@
                 </div>
             </div>
         </div>
+    </div>
     </div>
     <!-- Quote End -->
 
@@ -569,12 +571,12 @@
                         </div>
                         <div class="p-4">
                             <div class="d-flex mb-3">
-                                <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
+                                <small class="me-3"><i class="far fa-user text-primary me-2"></i>Geotekh technologies</small>
+                                <!-- <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small> -->
                             </div>
                             <h4 class="mb-3">How to build a website</h4>
                             <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                            <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
+                            <a class="text-uppercase" href="maintekh">Conocer más <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -586,12 +588,12 @@
                         </div>
                         <div class="p-4">
                             <div class="d-flex mb-3">
-                                <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
+                                <small class="me-3"><i class="far fa-user text-primary me-2"></i>Geotekh technologies</small>
+                                <!-- <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small> -->
                             </div>
                             <h4 class="mb-3">How to build a website</h4>
                             <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                            <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
+                            <a class="text-uppercase" href="logtekh">Conocer más <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -603,12 +605,12 @@
                         </div>
                         <div class="p-4">
                             <div class="d-flex mb-3">
-                                <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
+                                <small class="me-3"><i class="far fa-user text-primary me-2"></i>Geotekh technologies</small>
+                                <!-- <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small> -->
                             </div>
                             <h4 class="mb-3">How to build a website</h4>
                             <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                            <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
+                            <a class="text-uppercase" href="geomekh">Conocer más <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -620,12 +622,12 @@
                         </div>
                         <div class="p-4">
                             <div class="d-flex mb-3">
-                                <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
+                                <small class="me-3"><i class="far fa-user text-primary me-2"></i>Geotekh technologies</small>
+                                <!-- <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small> -->
                             </div>
                             <h4 class="mb-3">How to build a website</h4>
                             <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                            <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
+                            <a class="text-uppercase" href="mineral-test">Conocer más <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -637,12 +639,12 @@
                         </div>
                         <div class="p-4">
                             <div class="d-flex mb-3">
-                                <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
+                                <small class="me-3"><i class="far fa-user text-primary me-2"></i>Geotekh technologies</small>
+                                <!-- <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small> -->
                             </div>
                             <h4 class="mb-3">How to build a website</h4>
                             <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                            <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
+                            <a class="text-uppercase" href="mantenimiento">Conocer más <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -654,12 +656,12 @@
                         </div>
                         <div class="p-4">
                             <div class="d-flex mb-3">
-                                <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
+                                <small class="me-3"><i class="far fa-user text-primary me-2"></i>Geotekh technologies</small>
+                                <!-- <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small> -->
                             </div>
                             <h4 class="mb-3">How to build a website</h4>
                             <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                            <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
+                            <a class="text-uppercase" href="otros-proyectos">Conocer más <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -687,15 +689,15 @@
         <div class="container mb-5">
             <div class="bg-white">
                 <div class="owl-carousel vendor-carousel">
-                    <img src="vistas/img/creditos-1.png" alt="Cliente" style="width: 170px; height: 100px;" >
-                    <img src="vistas/img/creditos-2.png" alt="Cliente" style="width: 170px; height: 100px;" >
-                    <img src="vistas/img/creditos-3.png" alt="Cliente" style="width: 170px; height: 100px;" >
-                    <img src="vistas/img/creditos-4.png" alt="Cliente" style="width: 170px; height: 100px;" >
-                    <img src="vistas/img/creditos-5.png" alt="Cliente" style="width: 170px; height: 100px;" >
-                    <img src="vistas/img/creditos-6.png" alt="Cliente" style="width: 170px; height: 100px;" >
-                    <img src="vistas/img/creditos-7.png" alt="Cliente" style="width: 170px; height: 100px;" >
-                    <img src="vistas/img/creditos-8.png" alt="Cliente" style="width: 170px; height: 100px;" >
-                    <img src="vistas/img/creditos-9.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-1.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-2.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-3.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-4.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-5.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-6.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-7.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-8.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-9.png" alt="Cliente" style="width: 170px; height: 100px;" >
                 </div>
             </div>
         </div>
