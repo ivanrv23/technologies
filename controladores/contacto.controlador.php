@@ -19,7 +19,7 @@ class ControladorContacto {
 			//Server settings
 			// $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      //Enable verbose debug output
 			$mail->isSMTP();                                            //Send using SMTP
-			$mail->Host       = 'geotekhperu.com';                     //Set the SMTP server to send through
+			$mail->Host       = 'technologies.geotekhperu.com';                     //Set the SMTP server to send through
 			$mail->SMTPAuth   = true;                                   //Enable SMTP authentication
 			$mail->Username   = 'technologies@geotekhperu.com';                     //SMTP username
 			$mail->Password   = 'GNu4#@=u72[e';                               //SMTP password

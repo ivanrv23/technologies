@@ -53,3 +53,43 @@ function enviarMensajeContacto() {
         console.log('No hay datos para enviar correo!');
     }
 }
+
+/*=============================================
+    ENVIAR DATA DEL FORMULARIO COTIZACIÓN
+=============================================*/
+function enviarMensajeCotizacion() {
+    var nombres = $('#nombreCotiza').val();
+    var correo = $('#correoCotiza').val();
+    var asunto = $('#asuntoCotiza').val();
+    var mensaje = $('#mensajeCotiza').val();
+    if (nombres != "" && correo != "" && asunto != "" && mensaje != "") {
+        var datos = new FormData();
+        datos.append("nombresSendEmail", nombres);
+        datos.append("correoSendEmail", correo);
+        datos.append("asuntoSendEmail", asunto);
+        datos.append("mensajeSendEmail", mensaje);
+        $.ajax({
+            url: "ajax/ajax.contacto.php",
+            method: "POST",
+            data: datos,
+            cache: false,
+            contentType: false,
+            processData: false,
+            dataType: "json",
+            success: function (respuesta) {
+                if (respuesta.cod != 'error') {
+                    alert("Su mensaje se envió correctamente!");
+					window.location.replace("contacto");
+                } else {
+                    alert("No se pudo enviar el mensaje!");
+					window.location.replace("contacto");
+                }
+            },
+            error: function (error) {
+                console.log(error);
+            }
+        });
+    } else {
+        console.log('No hay datos para enviar correo!');
+    }
+}

@@ -398,24 +398,24 @@
                         <form>
                             <div class="row g-3">
                                 <div class="col-xl-12">
-                                    <input type="text" class="form-control bg-light border-0" placeholder="Nombre" style="height: 55px;">
+                                    <input type="text" class="form-control bg-light border-0" id="nombreCotiza" placeholder="Nombre" style="height: 55px;">
                                 </div>
                                 <div class="col-12">
-                                    <input type="email" class="form-control bg-light border-0" placeholder="Correo electrónico" style="height: 55px;">
+                                    <input type="email" class="form-control bg-light border-0" id="correoCotiza" placeholder="Correo electrónico" style="height: 55px;">
                                 </div>
                                 <div class="col-12">
-                                    <select class="form-select bg-light border-0" style="height: 55px;">
-                                        <option selected>Seleccione un servicio</option>
-                                        <option value="1">Desarrollo de Software</option>
-                                        <option value="2">Aplicativos</option>
-                                        <option value="3">Proyectos</option>
+                                    <select class="form-select bg-light border-0" id="asuntoCotiza" style="height: 55px;">
+                                        <option value="">Seleccione un servicio</option>
+                                        <option value="Desarrollo de Software">Desarrollo de Software</option>
+                                        <option value="Aplicativo Móvil">Aplicativo Móvil</option>
+                                        <option value="Proyectos">Proyectos</option>
                                     </select>
                                 </div>
                                 <div class="col-12">
-                                    <textarea class="form-control bg-light border-0" rows="3" placeholder="Mensaje"></textarea>
+                                    <textarea class="form-control bg-light border-0" id="mensajeCotiza" rows="3" placeholder="Mensaje"></textarea>
                                 </div>
                                 <div class="col-12">
-                                    <button class="btn btn-dark w-100 py-3" type="submit">ENVIAR</button>
+                                    <button type="button" class="btn btn-dark w-100 py-3" onclick="enviarMensajeCotizacion()">ENVIAR</button>
                                 </div>
                             </div>
                         </form>
@@ -696,8 +696,6 @@
                     <img src="vistas/img/logos/creditos-5.png" alt="Cliente" style="width: 170px; height: 100px;" >
                     <img src="vistas/img/logos/creditos-6.png" alt="Cliente" style="width: 170px; height: 100px;" >
                     <img src="vistas/img/logos/creditos-7.png" alt="Cliente" style="width: 170px; height: 100px;" >
-                    <img src="vistas/img/logos/creditos-8.png" alt="Cliente" style="width: 170px; height: 100px;" >
-                    <img src="vistas/img/logos/creditos-9.png" alt="Cliente" style="width: 170px; height: 100px;" >
                 </div>
             </div>
         </div>

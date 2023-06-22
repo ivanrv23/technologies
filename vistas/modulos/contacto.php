@@ -102,22 +102,63 @@
     </div>
 </div>
 <!-- Contact End -->
-
-
-<!-- Vendor Start -->
+<!-- Testimonial Start -->
 <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
-    <div class="container py-5 mb-5">
+    <div class="container py-5">
+        <div class="section-title text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px;">
+            <h5 class="fw-bold text-primary text-uppercase">Testimonios</h5>
+            <h1 class="mb-0">Nuestros clientes comentan sobre Nuestros Servicios</h1>
+        </div>
+        <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.6s">
+            <div class="testimonial-item bg-light my-4">
+                <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
+                    <img class="h-30 rounded" src="vistas/img/testimonial-1.jpg" style="width: 60px; height: 60px;" >
+                    <div class="ps-4">
+                        <h4 class="text-primary mb-1">Iván Ramos</h4>
+                        <small class="text-uppercase">Ingeniero de Sistemas</small>
+                    </div>
+                </div>
+                <div class="pt-4 pb-5 px-5">
+                    Yo contraté para que me hagan un sistema web para mi gimnasio y su servicio fue excelentisicimo, calidad garantizada.
+                </div>
+            </div>
+            <div class="testimonial-item bg-light my-4">
+                <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
+                    <img class="h-30 rounded" src="vistas/img/testimonial-2.jpg" style="width: 60px; height: 60px;" >
+                    <div class="ps-4">
+                        <h4 class="text-primary mb-1">Susan Gómez</h4>
+                        <small class="text-uppercase">Administración de Empresas</small>
+                    </div>
+                </div>
+                <div class="pt-4 pb-5 px-5">
+                    Su servicio es excelente, me asesoraron para poder vender mis productos en línea a través de una tienda virtual y me va de la mejor manera. Recomendo al 100 su trabajo.
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Testimonial End --> 
+<div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container ">
+        <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
+            <h1 class="mb-0">Nuestros clientes</h1>
+        </div>
+        <div class="row g-5">
+        </div>
+    </div>
+</div>
+<!-- Vendor Start -->
+<div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container mb-5">
         <div class="bg-white">
             <div class="owl-carousel vendor-carousel">
-            <img src="vistas/img/academy.png" alt="Cliente">
-                    <img src="vistas/img/alliance.png" alt="Cliente">
-                    <img src="vistas/img/celcom.jpg" alt="Cliente">
-                    <img src="vistas/img/incuba.jpg" alt="Cliente">
-                    <img src="vistas/img/inicia.jpg" alt="Cliente">
-                    <img src="vistas/img/roycell.jpg" alt="Cliente">
-                    <img src="vistas/img/trainers.png" alt="Cliente">
-                    <img src="vistas/img/vendor-8.jpg" alt="Cliente">
-                    <img src="vistas/img/vendor-9.jpg" alt="Cliente">
+                <img src="vistas/img/logos/creditos-1.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                <img src="vistas/img/logos/creditos-2.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                <img src="vistas/img/logos/creditos-3.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                <img src="vistas/img/logos/creditos-4.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                <img src="vistas/img/logos/creditos-5.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                <img src="vistas/img/logos/creditos-6.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                <img src="vistas/img/logos/creditos-7.png" alt="Cliente" style="width: 170px; height: 100px;" >
             </div>
         </div>
     </div>
