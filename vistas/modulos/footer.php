@@ -74,7 +74,7 @@
             <div class="row justify-content-end">
                 <div class="col-lg-12 col-md-12">
                     <div class="d-flex align-items-center justify-content-center" style="height: 75px;">
-                        <p class="mb-0">&copy; <a class="text-white border-bottom" href="inicio">Technologies</a>. Todos los derechos reservados.</p>
+                        <p class="mb-0">Copyright <?php echo date('Y') ?> &copy; <a class="text-white border-bottom" href="inicio">Geotekh Technologies</a>. Todos los derechos reservados.</p>
                     </div>
                 </div>
             </div>

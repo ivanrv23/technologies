@@ -19,9 +19,9 @@ class ControladorContacto {
 			//Server settings
 			// $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      //Enable verbose debug output
 			$mail->isSMTP();                                            //Send using SMTP
-			$mail->Host       = 'maintekh.geotekhperu.com';                     //Set the SMTP server to send through
+			$mail->Host       = 'geotekhperu.com';                     //Set the SMTP server to send through
 			$mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-			$mail->Username   = 'correo@maintekh.geotekhperu.com';                     //SMTP username
+			$mail->Username   = 'technologies@geotekhperu.com';                     //SMTP username
 			$mail->Password   = 'GNu4#@=u72[e';                               //SMTP password
 			$mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
 			$mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
@@ -33,27 +33,21 @@ class ControladorContacto {
 			$mail->addAddress("technologies@geotekhperu.com", $para);//correo del destinatario
 			$mail->addCC($correo);
 			//Content
-			$mail->isHTML(true);                                  //Set email format to HTML
+			$mail->isHTML(true); //Set email format to HTML
 			$mail->Subject = utf8_decode($asunto); //asunto
 			$mail->Body    = utf8_decode('<b>'.$mensaje.'</b>');
 			$mail->AltBody = utf8_decode($mensaje);
 
 			if ($mail->send()) { //comprobar si se envio el mail
-				echo '<script> 
-					alert("Su mensaje se envió correctamente!");
-					window.location.replace("contacto");
-				</script>';
+				return "ok";
 			} else {
-				echo '<script> 
-					alert("No se pudo enviar el mensaje!");
-					window.location.replace("contacto");
-				</script>';
+				return "ok";
 			}
 		} catch (Exception $e) {
 			echo '<script> 
-				alert("Error al enviar el correo: "'.$e.');
-				window.location.replace("contacto");
+				console.log("Error al enviar correo: "'.$e.');
 			</script>';
+			return "error";
 		}
 	}
 }
