@@ -150,8 +150,6 @@
                     <img src="vistas/img/logos/creditos-5.png" alt="Cliente" style="width: 170px; height: 100px;" >
                     <img src="vistas/img/logos/creditos-6.png" alt="Cliente" style="width: 170px; height: 100px;" >
                     <img src="vistas/img/logos/creditos-7.png" alt="Cliente" style="width: 170px; height: 100px;" >
-                    <img src="vistas/img/logos/creditos-8.png" alt="Cliente" style="width: 170px; height: 100px;" >
-                    <img src="vistas/img/logos/creditos-9.png" alt="Cliente" style="width: 170px; height: 100px;" >
                 </div>
             </div>
         </div>
