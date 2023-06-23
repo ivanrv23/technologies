@@ -109,15 +109,15 @@
     <div class="container py-5 mb-5">
         <div class="bg-white">
             <div class="owl-carousel vendor-carousel">
-                <img src="vistas/img/vendor-1.jpg" alt="">
-                <img src="vistas/img/vendor-2.jpg" alt="">
-                <img src="vistas/img/vendor-3.jpg" alt="">
-                <img src="vistas/img/vendor-4.jpg" alt="">
-                <img src="vistas/img/vendor-5.jpg" alt="">
-                <img src="vistas/img/vendor-6.jpg" alt="">
-                <img src="vistas/img/vendor-7.jpg" alt="">
-                <img src="vistas/img/vendor-8.jpg" alt="">
-                <img src="vistas/img/vendor-9.jpg" alt="">
+            <img src="vistas/img/logos/creditos-1.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-2.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-3.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-4.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-5.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-6.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-7.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-8.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-9.png" alt="Cliente" style="width: 170px; height: 100px;" >
             </div>
         </div>
     </div>
