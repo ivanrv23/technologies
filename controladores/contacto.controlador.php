@@ -22,7 +22,7 @@ class ControladorContacto {
 			$mail->Host       = 'technologies.geotekhperu.com';                     //Set the SMTP server to send through
 			$mail->SMTPAuth   = true;                                   //Enable SMTP authentication
 			$mail->Username   = 'technologies@geotekhperu.com';                     //SMTP username
-			$mail->Password   = 'GNu4#@=u72[e';                               //SMTP password
+			$mail->Password   = ')RcP%KvLt6Wa';                               //SMTP password es del correo
 			$mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
 			$mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
@@ -41,7 +41,7 @@ class ControladorContacto {
 			if ($mail->send()) { //comprobar si se envio el mail
 				return "ok";
 			} else {
-				return "ok";
+				return "error";
 			}
 		} catch (Exception $e) {
 			echo '<script> 
