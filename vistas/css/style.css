@@ -500,6 +500,31 @@ h6,
     background-size: cover;
 }
 
+/* imagen geomekh */
+.bg-header-geomekh {
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/geomekh/geomekh-1.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+/* imagen mineral test */
+.bg-header-mineral-test {
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/mineral-test/mineral-test-1.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+/* imagen sistema trujillo*/
+.bg-header-sistema-trujillo{
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/sistema-trujillo/sistema-trujillo-1.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+/* imagen sisvent*/
+.bg-header-sisvent{
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/sisvent/sisvent-mockup.png) center center no-repeat;
+    background-size: cover;
+}
+
+
 .link-animated a {
     transition: .5s;
 }

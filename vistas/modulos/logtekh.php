@@ -13,19 +13,19 @@
     <div class="container">
         <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.6s">
             <div class="card testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/blog-1.jpg" alt="">
+            <img class="img-fluid rounded" src="vistas/img/logtekh/logtekh-1.jpg" alt="">
             </div>
             <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/blog-1.jpg" alt="">
+            <img class="img-fluid rounded" src="vistas/img/logtekh/logtekh-2.jpg" alt="">
             </div>
             <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/blog-1.jpg" alt="">
+            <img class="img-fluid rounded" src="vistas/img/logtekh/logtekh-3.jpg" alt="">
             </div>
             <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/blog-1.jpg" alt="">
+            <img class="img-fluid rounded" src="vistas/img/logtekh/logtekh-4.jpg" alt="">
             </div>
             <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/blog-1.jpg" alt="">
+            <img class="img-fluid rounded" src="vistas/img/logtekh/logtekh-5.jpg" alt="">
             </div>
         </div>
     </div>
