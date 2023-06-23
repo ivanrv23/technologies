@@ -61,9 +61,9 @@
                             <a id="otros-proyectos" href="sisvent" class="dropdown-item">SISVENT</a>
                         </div>
                     </div>
-                    <a id="tienda" href="tienda" class="nav-item nav-link">Tienda</a>
+                    <a id="tienda" href="tienda" class="nav-item nav-link">Tienda <i class="bi bi-cart3"></i></a>
                     <a id="contacto" href="contacto" class="nav-item nav-link">Contacto</a>
                 </div>
-                <a href="https://web.whatsapp.com" target="_blank" class="btn btn-success py-2 px-3 ms-3">Chatear <i class="fab fa-brands fa-whatsapp"></i></a>
+                <a href="https://api.whatsapp.com/send?phone=997226188&text=Buen%20d%C3%ADa,%20quiero%20m%C3%A1s%20informaci%C3%B3n" target="_blank" class="btn btn-success py-2 px-3 ms-3">Chatear <i class="fab fa-brands fa-whatsapp"></i></a>
             </div>
         </nav>
