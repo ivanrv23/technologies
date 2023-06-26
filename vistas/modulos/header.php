@@ -58,7 +58,7 @@
                             <a id="geomekh" href="geomekh" class="dropdown-item">GEOMEKH</a>
                             <a id="mineral-test" href="mineral-test" class="dropdown-item">MINERAL TEST</a>
                             <a id="mantenimiento" href="mantenimiento" class="dropdown-item">SISTEMA TRUJILLO</a>
-                            <a id="otros-proyectos" href="sisvent" class="dropdown-item">SISVENT</a>
+                            <a id="sisvent" href="sisvent" class="dropdown-item">SISVENT</a>
                         </div>
                     </div>
                     <a id="tienda" href="tienda" class="nav-item nav-link">Tienda <i class="fas fa-store"></i></a>

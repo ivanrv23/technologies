@@ -1,4 +1,4 @@
-<div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
+<div class="container-fluid bg-primary py-5 bg-header-geomekh" style="margin-bottom: 90px;">
     <div class="row py-5">
         <div class="col-12 pt-lg-5 mt-lg-5 text-center">
             <h1 class="display-1 text-white animated zoomIn">GEOMEKH</h1>
@@ -13,19 +13,25 @@
     <div class="container">
         <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.6s">
             <div class="card testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/blog-1.jpg" alt="">
+            <img class="img-fluid rounded" src="vistas/img/geomekh/geomekh-1.jpg" alt="">
             </div>
             <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/blog-1.jpg" alt="">
+            <img class="img-fluid rounded" src="vistas/img/geomekh/geomekh-2.jpg" alt="">
             </div>
             <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/blog-1.jpg" alt="">
+            <img class="img-fluid rounded" src="vistas/img/geomekh/geomekh-3.jpg" alt="">
             </div>
             <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/blog-1.jpg" alt="">
+            <img class="img-fluid rounded" src="vistas/img/geomekh/geomekh-4.jpg" alt="">
             </div>
             <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/blog-1.jpg" alt="">
+            <img class="img-fluid rounded" src="vistas/img/geomekh/geomekh-5.jpg" alt="">
+            </div>
+            <div class="testimonial-item bg-light my-4">
+            <img class="img-fluid rounded" src="vistas/img/geomekh/geomekh-6.jpg" alt="">
+            </div>
+            <div class="testimonial-item bg-light my-4">
+            <img class="img-fluid rounded" src="vistas/img/geomekh/geomekh-7.jpg" alt="">
             </div>
         </div>
     </div>

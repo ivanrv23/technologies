@@ -30,6 +30,15 @@
 
     <!-- Template Stylesheet -->
     <link href="vistas/css/style.css" rel="stylesheet">
+
+    <!-- para realizar zoom y ventana emergente -->
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://rawgit.com/LeshikJanz/libraries/master/Bootstrap/baguetteBox.min.css"> -->
+
+
+
 </head>
 <!--=====================================
         CUERPO DEL DOCUMENTO
@@ -59,7 +68,7 @@
             $_GET["ruta"] == "geomekh" ||
             $_GET["ruta"] == "mineral-test" ||
             $_GET["ruta"] == "mantenimiento" ||
-            $_GET["ruta"] == "otros-proyectos"
+            $_GET["ruta"] == "sisvent"
 
         ) {
 
