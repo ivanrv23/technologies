@@ -59,8 +59,9 @@
     if (isset($_GET["ruta"])) {
         if (
             $_GET["ruta"] == "inicio" ||
-            $_GET["ruta"] == "desarrollo-software" ||
             $_GET["ruta"] == "aplicativo-movil" ||
+            $_GET["ruta"] == "paginas-web" ||
+            $_GET["ruta"] == "desarrollo-software" ||
             $_GET["ruta"] == "nosotros" ||
             $_GET["ruta"] == "contacto" ||
             $_GET["ruta"] == "maintekh" ||

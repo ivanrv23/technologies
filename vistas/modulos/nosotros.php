@@ -1,4 +1,4 @@
-<div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
+<div class="container-fluid bg-primary py-5 bg-header-nosotros" style="margin-bottom: 90px;">
             <div class="row py-5">
                 <div class="col-12 pt-lg-5 mt-lg-5 text-center">
                     <h1 class="display-4 text-white animated zoomIn">NOSOTROS</h1>
@@ -60,7 +60,7 @@
                             <h4 class="text-primary mb-0">+51 997 226 188</h4>
                         </div>
                     </div>
-                    <a href="quote.html" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Solicitar cotización</a>
+                    <a href="contacto" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Solicitar cotización</a>
                 </div>
                 <div class="col-lg-5" style="min-height: 500px;">
                     <div class="position-relative h-100">

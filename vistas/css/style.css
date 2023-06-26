@@ -482,12 +482,27 @@ h6,
     bottom: 45px;
     z-index: 99;
 }
-
+/* background general*/
 .bg-header {
     background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/carousel-1.jpg) center center no-repeat;
     background-size: cover;
 }
 
+/* background para cada seccion */
+.bg-header-nosotros {
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/imagenes/foto-03.jpg) center center no-repeat;
+    background-size: cover;
+}
+.bg-header-app {
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/servicios/img-aplicaciones.jpg) center center no-repeat;
+    background-size: cover;
+}
+.bg-header-paginas-web {
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/servicios/img-paginaweb.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+/* background de los servicios */
 /* imagen Maintekh */
 .bg-header-maintekh {
     background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/maintekh/maintekh-1.jpg) center center no-repeat;
