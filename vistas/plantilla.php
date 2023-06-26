@@ -37,8 +37,6 @@
     <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet">
     <link rel="stylesheet" href="https://rawgit.com/LeshikJanz/libraries/master/Bootstrap/baguetteBox.min.css"> -->
 
-
-
 </head>
 <!--=====================================
         CUERPO DEL DOCUMENTO
