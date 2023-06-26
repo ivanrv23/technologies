@@ -35,8 +35,8 @@
                     <div class="section-title position-relative pb-3 mb-5">
                         <h1 class="mb-0">Diseño y desarrollo de Páginas Web a medida y acorde con los requerimientos de tu negicio o empresa</h1>
                     </div>
-                    <p class="mb-4">Te ayudamos con el diseño y creacion de tu propia página web, repotencia tu negocio o empresa llegando a más personas y multiplica tus ventas</p>
-                    <p class="mb-4">Nuestro servicio personalizado se adapta a las necesidades de nuestros clientes para ofrecerles las mejores tecnologías en desarrollo de páginas web.</p>
+                    <p class="mb-4">Te ayudamos con el diseño y creacion de tu propia página web. Repotencia tu negocio o empresa llegando a más personas y multiplica tus ventas</p>
+                    <p class="mb-4">Nuestro servicio personalizado esta pensando en las necesidades de cada uno de nuestros clientes para ofrecerles las mejores soluciones en el desarrollo de paginas web, maximizando la visibilidad en línea de nuestros clientes y diferenciándose de la competitividad.</p>
                     <div class="row g-0 mb-3">
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
                             <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Orientación al cliente</h5>
