@@ -16,7 +16,7 @@
                 </div>
             </div>
 
-           
+
             <div class="col-lg-4 text-center text-lg-end">
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
                     <!-- <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-brands fa-whatsapp"></i></a> -->
@@ -46,19 +46,25 @@
                     <div class="nav-item dropdown">
                         <a id="servicios" href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Servicios</a>
                         <div class="dropdown-menu m-0">
+                            <a id="aplicativo-movil" href="aplicativo-movil" class="dropdown-item">Desarrollo Aplicativos Móviles</a>
+                            <a id="paginas-web" href="paginas-web" class="dropdown-item">Desarrollo Páginas Web</a>
                             <a id="desarrollo-software" href="desarrollo-software" class="dropdown-item">Desarrollo Software</a>
-                            <a id="aplicativo-movil" href="aplicativo-movil" class="dropdown-item">Aplicativos</a>
+                            <a id="sistema-web" href="sistema-web" class="dropdown-item">Desarrollo Sistemas Web</a>
+                            <a id="dominio-hosting" href="dominio-hosting" class="dropdown-item">Dominio y Hosting</a>
+                            <a id="mantenimiento-tecnologico" href="mantenimiento-tecnologico" class="dropdown-item">Mantenimiento Preventivo y Correctivo</a>
+                            <a id="soporte-redes" href="soporte-redes" class="dropdown-item">Soporte de Redes</a>
+                            <a id="soporte-tecnico" href="soporte tecnico" class="dropdown-item">Soporte Técnico</a>
                         </div>
                     </div>
                     <div class="nav-item dropdown">
                         <a id="proyectos" href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Proyectos</a>
                         <div class="dropdown-menu m-0">
-                            <a id="maintekh" href="maintekh" class="dropdown-item">MAINTEKH</a>
-                            <a id="logtekh" href="logtekh" class="dropdown-item">LOGTEKH</a>
-                            <a id="geomekh" href="geomekh" class="dropdown-item">GEOMEKH</a>
-                            <a id="mineral-test" href="mineral-test" class="dropdown-item">MINERAL TEST</a>
-                            <a id="mantenimiento" href="mantenimiento" class="dropdown-item">SISTEMA TRUJILLO</a>
-                            <a id="sisvent" href="sisvent" class="dropdown-item">SISVENT</a>
+                            <a id="maintekh" href="maintekh" class="dropdown-item">Maintekh</a>
+                            <a id="logtekh" href="logtekh" class="dropdown-item">Logtekh</a>
+                            <a id="geomekh" href="geomekh" class="dropdown-item">Geomekh</a>
+                            <a id="mineral-test" href="mineral-test" class="dropdown-item">Mineral Test</a>
+                            <a id="mantenimiento" href="mantenimiento" class="dropdown-item">Sistema Trujillo</a>
+                            <a id="sisvent" href="sisvent" class="dropdown-item">Sisvent</a>
                         </div>
                     </div>
                     <a id="tienda" href="tienda" class="nav-item nav-link">Tienda <i class="fas fa-store"></i></a>
