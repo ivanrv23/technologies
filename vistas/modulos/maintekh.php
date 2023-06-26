@@ -22,7 +22,33 @@
         </div> -->
 
 
-<!-- Imágenes Maintekh con zoom -->      
+<!-- Imágenes Maintekh con zoom y ventana emergente -->
+<!-- <div class="container gallery-container">
+    <div class="tz-gallery">
+        <div class="row">
+            <div class="col-sm-12 col-md-4">
+                <a class="lightbox" href="vistas/img/maintekh/maintekh-1.jpg">
+                    <img src="vistas/img/maintekh/maintekh-1.jpg" alt="Bridge">
+                </a>
+            </div>
+            <div class="col-sm-12 col-md-4">
+                <a class="lightbox" href="vistas/img/maintekh/maintekh-2.jpg">
+                    <img src="vistas/img/maintekh/maintekh-2.jpg" alt="Bridge">
+                </a>
+            </div><div class="col-sm-12 col-md-4">
+                <a class="lightbox" href="vistas/img/maintekh/maintekh-3.jpg">
+                    <img src="vistas/img/maintekh/maintekh-3.jpg" alt="Bridge">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+<script>
+    baguetteBox.run('.tz-gallery');
+</script> -->
+
 
 
 <!-- Imágenes Maintekh Start -->
@@ -30,19 +56,19 @@
     <div class="container">
         <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
             <div class="card testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-1.jpg" alt="">
+                <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-1.jpg" alt="">
             </div>
             <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-2.jpg" alt="">
+                <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-2.jpg" alt="">
             </div>
             <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-3.jpg" alt="">
+                <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-3.jpg" alt="">
             </div>
             <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-4.jpg" alt="">
+                <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-4.jpg" alt="">
             </div>
             <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-5.jpg" alt="">
+                <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-5.jpg" alt="">
             </div>
         </div>
     </div>
