@@ -26,20 +26,20 @@
 <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
     <div class="container">
         <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
-            <div class="card testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-1.jpg" alt="">
+            <div class="card testimonial-item bg-light m-4">
+                <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-1.jpg" alt="">
             </div>
-            <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-2.jpg" alt="">
+            <div class="testimonial-item bg-light m-4">
+                <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-2.jpg" alt="">
             </div>
-            <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-3.jpg" alt="">
+            <div class="testimonial-item bg-light m-4">
+                <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-3.jpg" alt="">
             </div>
-            <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-4.jpg" alt="">
+            <div class="testimonial-item bg-light m-4">
+                <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-4.jpg" alt="">
             </div>
-            <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-5.jpg" alt="">
+            <div class="testimonial-item bg-light m-4">
+                <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-5.jpg" alt="">
             </div>
         </div>
     </div>
@@ -238,3 +238,20 @@
     </div>
 </div>
 <!-- Planes End -->
+<div class="modal fade" id="modalVerImagenAmplia" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        ...
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
