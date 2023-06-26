@@ -37,8 +37,6 @@
     <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet">
     <link rel="stylesheet" href="https://rawgit.com/LeshikJanz/libraries/master/Bootstrap/baguetteBox.min.css"> -->
 
-
-
 </head>
 <!--=====================================
         CUERPO DEL DOCUMENTO
@@ -69,8 +67,7 @@
             $_GET["ruta"] == "geomekh" ||
             $_GET["ruta"] == "mineral-test" ||
             $_GET["ruta"] == "mantenimiento" ||
-            $_GET["ruta"] == "sisvent"||
-            $_GET["ruta"] == "desarrollo-software-detalle"
+            $_GET["ruta"] == "sisvent"
 
         ) {
 
