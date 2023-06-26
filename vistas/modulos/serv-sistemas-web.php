@@ -1,7 +1,7 @@
-<div class="container-fluid bg-primary py-5 bg-header-paginas-web" style="margin-bottom: 90px;">
+<div class="container-fluid bg-primary py-5 bg-header-sistemas-web" style="margin-bottom: 90px;">
             <div class="row py-5">
                 <div class="col-12 pt-lg-5 mt-lg-5 text-center">
-                    <h1 class="display-1 text-white animated zoomIn">Desarrollo de Páginas Web</h1>
+                    <h1 class="display-1 text-white animated zoomIn">Desarrollo de Sistemas Web</h1>
                 </div>
             </div>
         </div>
@@ -33,10 +33,9 @@
             <div class="row g-5">
                 <div class="col-lg-7">
                     <div class="section-title position-relative pb-3 mb-5">
-                        <h1 class="mb-0">Diseño y desarrollo de Páginas Web a medida y acorde con los requerimientos de tu negicio o empresa</h1>
+                        <h1 class="mb-0">Diseño y desarrollo de Sistemas Web</h1>
                     </div>
-                    <p class="mb-4">Te ayudamos con el diseño y creacion de tu propia página web, repotencia tu negocio o empresa llegando a más personas y multiplica tus ventas</p>
-                    <p class="mb-4">Nuestro servicio personalizado se adapta a las necesidades de nuestros clientes para ofrecerles las mejores tecnologías en desarrollo de páginas web.</p>
+                    <p class="mb-4">Te ayudamos con el diseño y creacion de tu propia página web. Repotencia tu negocio o empresa llegando a más personas y multiplica tus ventas</p>
                     <div class="row g-0 mb-3">
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
                             <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Orientación al cliente</h5>

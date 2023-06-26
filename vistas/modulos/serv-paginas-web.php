@@ -1,7 +1,7 @@
-<div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
+<div class="container-fluid bg-primary py-5 bg-header-paginas-web" style="margin-bottom: 90px;">
             <div class="row py-5">
                 <div class="col-12 pt-lg-5 mt-lg-5 text-center">
-                    <h1 class="display-1 text-white animated zoomIn">SOFTWARE</h1>
+                    <h1 class="display-1 text-white animated zoomIn">Desarrollo de Páginas Web</h1>
                 </div>
             </div>
         </div>
@@ -27,13 +27,60 @@
     </div>
     <!-- Full Screen Search End -->
 
+ <!-- informacion sobre el desarrollo de paginas web -->
+ <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container py-5">
+            <div class="row g-5">
+                <div class="col-lg-7">
+                    <div class="section-title position-relative pb-3 mb-5">
+                        <h1 class="mb-0">Diseño y desarrollo de Páginas Web a medida y acorde con los requerimientos de tu negicio o empresa</h1>
+                    </div>
+                    <p class="mb-4">Te ayudamos con el diseño y creacion de tu propia página web. Repotencia tu negocio o empresa llegando a más personas y multiplica tus ventas</p>
+                    <p class="mb-4">Nuestro servicio personalizado esta pensando en las necesidades de cada uno de nuestros clientes para ofrecerles las mejores soluciones en el desarrollo de paginas web, maximizando la visibilidad en línea de nuestros clientes y diferenciándose de la competitividad.</p>
+                    <div class="row g-0 mb-3">
+                        <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Orientación al cliente</h5>
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Innovación constante</h5>
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Competitividad</h5>
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Equipo de profesionales</h5>
+                        </div>
+                        <div class="col-sm-6 wow zoomIn" data-wow-delay="0.4s">
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Seguridad</h5>
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Compromiso</h5>
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Soporte 24/7</h5>
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Precios accesibles</h5>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-center mb-4 wow fadeIn" data-wow-delay="0.6s">
+                        <div class="bg-primary d-flex align-items-center justify-content-center rounded" style="width: 60px; height: 60px;">
+                            <i class="fa fa-phone-alt text-white"></i>
+                        </div>
+                        <div class="ps-4">
+                            <h5 class="mb-2">Para dudas y consultas, comunicarse al número</h5>
+                            <h4 class="text-primary mb-0">+51 997 226 188</h4>
+                        </div>
+                    </div>
+                    <a href="contacto" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Solicitar cotización</a>
+                </div>
+                <div class="col-lg-5" style="min-height: 500px;">
+                    <div class="position-relative h-100">
+                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="vistas/img/about.jpg" style="object-fit: cover;">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About End -->
+
+
+
 
     <!-- Service Start -->
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
                 <h5 class="fw-bold text-primary text-uppercase">Nuestros Servicios</h5>
-                <h1 class="mb-0">Desarrollo de Software</h1>
+                <h1 class="mb-0">Desarrollo de Páginas Web</h1>
             </div>
             <div class="row g-5">
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
@@ -41,8 +88,8 @@
                         <div class="service-icon">
                             <i class="fa fa-shield-alt text-white"></i>
                         </div>
-                        <h4 class="mb-3">Sistema de Ventas</h4>
-                        <p class="m-0">Sistema de ventas a medida, de acuerdo a las necesidades del cliente</p>
+                        <h4 class="mb-3">Tienda virtual</h4>
+                        <p class="m-0">Tu tienda virtual desde tu dispositvo móvil, vende desde cualquier lado.</p>
                         <a class="btn btn-lg btn-primary rounded" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -53,8 +100,8 @@
                         <div class="service-icon">
                             <i class="fa fa-chart-pie text-white"></i>
                         </div>
-                        <h4 class="mb-3">Sitio Web</h4>
-                        <p class="m-0">Hazte conocido por el mundo, creamos tu sito web para presentarte a todo el mundo</p>
+                        <h4 class="mb-3">Educación</h4>
+                        <p class="m-0">Creamos aplicativos para educación.</p>
                         <a class="btn btn-lg btn-primary rounded" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -65,8 +112,8 @@
                         <div class="service-icon">
                             <i class="fa fa-code text-white"></i>
                         </div>
-                        <h4 class="mb-3">Desarrollo Web</h4>
-                        <p class="m-0">Creamos sistemas web multiplataforma para que puedas acceder a tus datos desde cualquier parte del palneta</p>
+                        <h4 class="mb-3">Videojuegos</h4>
+                        <p class="m-0">¿Tienes un juego en mente? Hazlo realidad con nuestro equipo profesional de desarrollo.</p>
                         <a class="btn btn-lg btn-primary rounded" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -77,8 +124,8 @@
                         <div class="service-icon">
                             <i class="fab fa-android text-white"></i>
                         </div>
-                        <h4 class="mb-3">Dominio y Hosting</h4>
-                        <p class="m-0">Adquiere tu dominio y hosting y saca el máximo provecho a la virtualidad, tenemos los mejores palnes de acuerdo al cliente</p>
+                        <h4 class="mb-3">Play Store</h4>
+                        <p class="m-0">Te asesoramos para que puedas subir tus aplicativos a Play Store para android.</p>
                         <a class="btn btn-lg btn-primary rounded" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -89,8 +136,8 @@
                         <div class="service-icon">
                             <i class="fa fa-search text-white"></i>
                         </div>
-                        <h4 class="mb-3">Testing Profesional</h4>
-                        <p class="m-0">¿Tienes un proyecto en desarrollo? Te asesoramos y te apoyamos en los procesos de desarrollo, testing y pruebas.</p>
+                        <h4 class="mb-3">App Store</h4>
+                        <p class="m-0">Te asesoramos para que subas tus aplicativos a la App Store de Apple.</p>
                         <a class="btn btn-lg btn-primary rounded" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -107,7 +154,4 @@
         </div>
     </div>
     <!-- Service End -->
-
-
-    
     

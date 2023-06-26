@@ -501,6 +501,34 @@ h6,
     background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/servicios/img-paginaweb.jpg) center center no-repeat;
     background-size: cover;
 }
+.bg-header-desarrollo-software {
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/servicios/img-desarrollo-software.jpg) center center no-repeat;
+    background-size: cover;
+}
+.bg-header-sistemas-web {
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/servicios/img-sistemas-web.jpg) center center no-repeat;
+    background-size: cover;
+}
+.bg-header-dominio-hosting {
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/servicios/img-dominio-hosting.jpg) center center no-repeat;
+    background-size: cover;
+}
+.bg-header-mantenimiento-tecnico {
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/servicios/img-mantenimiento-tecnico.jpg) center center no-repeat;
+    background-size: cover;
+}
+.bg-header-soporte-redes {
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/servicios/img-soporte-redes.jpg) center center no-repeat;
+    background-size: cover;
+}
+.bg-header-soporte-tecnico {
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/servicios/img-soporte-tecnico.jpg) center center no-repeat;
+    background-size: cover;
+}
+.bg-header-asesorias {
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/servicios/img-asesorias.jpg) center center no-repeat;
+    background-size: cover;
+}
 
 /* background de los servicios */
 /* imagen Maintekh */

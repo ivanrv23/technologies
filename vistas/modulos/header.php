@@ -46,14 +46,15 @@
                     <div class="nav-item dropdown">
                         <a id="servicios" href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Servicios</a>
                         <div class="dropdown-menu m-0">
-                            <a id="aplicativo-movil" href="aplicativo-movil" class="dropdown-item">Desarrollo Aplicativos Móviles</a>
-                            <a id="paginas-web" href="paginas-web" class="dropdown-item">Desarrollo Páginas Web</a>
-                            <a id="desarrollo-software" href="desarrollo-software" class="dropdown-item">Desarrollo Software</a>
-                            <a id="sistema-web" href="sistema-web" class="dropdown-item">Desarrollo Sistemas Web</a>
-                            <a id="dominio-hosting" href="dominio-hosting" class="dropdown-item">Dominio y Hosting</a>
-                            <a id="mantenimiento-tecnologico" href="mantenimiento-tecnologico" class="dropdown-item">Mantenimiento Preventivo y Correctivo</a>
-                            <a id="soporte-redes" href="soporte-redes" class="dropdown-item">Soporte de Redes</a>
-                            <a id="soporte-tecnico" href="soporte tecnico" class="dropdown-item">Soporte Técnico</a>
+                            <a id="serv-aplicativo-movil" href="serv-aplicativo-movil" class="dropdown-item">Desarrollo Aplicativos Móviles</a>
+                            <a id="serv-paginas-web" href="serv-paginas-web" class="dropdown-item">Desarrollo Páginas Web</a>
+                            <a id="serv-desarrollo-software" href="serv-desarrollo-software" class="dropdown-item">Desarrollo Software</a>
+                            <a id="serv-sistemas-web" href="serv-sistemas-web" class="dropdown-item">Desarrollo Sistemas Web</a>
+                            <a id="serv-dominio-hosting" href="serv-dominio-hosting" class="dropdown-item">Dominio y Hosting</a>
+                            <a id="serv-mantenimiento-tecnico" href="serv-mantenimiento-tecnico" class="dropdown-item">Mantenimiento Preventivo y Correctivo</a>
+                            <a id="serv-soporte-redes" href="serv-soporte-redes" class="dropdown-item">Soporte de Redes</a>
+                            <a id="serv-soporte-tecnico" href="serv-soporte-tecnico" class="dropdown-item">Soporte Técnico</a>
+                            <a id="serv-asesorias" href="serv-asesorias" class="dropdown-item">Asesorías</a>
                         </div>
                     </div>
                     <div class="nav-item dropdown">

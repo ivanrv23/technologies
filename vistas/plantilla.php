@@ -37,8 +37,6 @@
     <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet">
     <link rel="stylesheet" href="https://rawgit.com/LeshikJanz/libraries/master/Bootstrap/baguetteBox.min.css"> -->
 
-
-
 </head>
 <!--=====================================
         CUERPO DEL DOCUMENTO
@@ -59,10 +57,21 @@
     if (isset($_GET["ruta"])) {
         if (
             $_GET["ruta"] == "inicio" ||
-            $_GET["ruta"] == "aplicativo-movil" ||
-            $_GET["ruta"] == "paginas-web" ||
-            $_GET["ruta"] == "desarrollo-software" ||
             $_GET["ruta"] == "nosotros" ||
+
+            // servicios
+            $_GET["ruta"] == "serv-aplicativo-movil" ||
+            $_GET["ruta"] == "serv-paginas-web" ||
+            $_GET["ruta"] == "serv-desarrollo-software" ||
+            $_GET["ruta"] == "serv-sistemas-web" ||
+            $_GET["ruta"] == "serv-dominio-hosting" ||
+            $_GET["ruta"] == "serv-mantenimiento-tecnico" ||
+            $_GET["ruta"] == "serv-soporte-redes" ||
+            $_GET["ruta"] == "serv-soporte-tecnico" ||
+            $_GET["ruta"] == "serv-asesorias" ||
+            
+            // proyectos
+
             $_GET["ruta"] == "contacto" ||
             $_GET["ruta"] == "maintekh" ||
             $_GET["ruta"] == "logtekh" ||

@@ -1,7 +1,7 @@
-<div class="container-fluid bg-primary py-5 bg-header-app" style="margin-bottom: 90px;">
+<div class="container-fluid bg-primary py-5 bg-header-soporte-redes" style="margin-bottom: 90px;">
             <div class="row py-5">
                 <div class="col-12 pt-lg-5 mt-lg-5 text-center">
-                    <h1 class="display-1 text-white animated zoomIn">APLICATIVOS</h1>
+                    <h1 class="display-1 text-white animated zoomIn">Soporte de Redes</h1>
                 </div>
             </div>
         </div>
@@ -27,12 +27,59 @@
     </div>
     <!-- Full Screen Search End -->
 
+ <!-- informacion sobre el desarrollo de paginas web -->
+ <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container py-5">
+            <div class="row g-5">
+                <div class="col-lg-7">
+                    <div class="section-title position-relative pb-3 mb-5">
+                        <h1 class="mb-0">Redes</h1>
+                    </div>
+                    <p class="mb-4">Te ayudamos con el diseño y creacion de tu propia página web. Repotencia tu negocio o empresa llegando a más personas y multiplica tus ventas</p>
+                    <div class="row g-0 mb-3">
+                        <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Orientación al cliente</h5>
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Innovación constante</h5>
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Competitividad</h5>
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Equipo de profesionales</h5>
+                        </div>
+                        <div class="col-sm-6 wow zoomIn" data-wow-delay="0.4s">
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Seguridad</h5>
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Compromiso</h5>
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Soporte 24/7</h5>
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Precios accesibles</h5>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-center mb-4 wow fadeIn" data-wow-delay="0.6s">
+                        <div class="bg-primary d-flex align-items-center justify-content-center rounded" style="width: 60px; height: 60px;">
+                            <i class="fa fa-phone-alt text-white"></i>
+                        </div>
+                        <div class="ps-4">
+                            <h5 class="mb-2">Para dudas y consultas, comunicarse al número</h5>
+                            <h4 class="text-primary mb-0">+51 997 226 188</h4>
+                        </div>
+                    </div>
+                    <a href="contacto" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Solicitar cotización</a>
+                </div>
+                <div class="col-lg-5" style="min-height: 500px;">
+                    <div class="position-relative h-100">
+                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="vistas/img/about.jpg" style="object-fit: cover;">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About End -->
+
+
+
+
     <!-- Service Start -->
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
                 <h5 class="fw-bold text-primary text-uppercase">Nuestros Servicios</h5>
-                <h1 class="mb-0">Desarrollo de Aplicativos móviles</h1>
+                <h1 class="mb-0">Desarrollo de Páginas Web</h1>
             </div>
             <div class="row g-5">
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
