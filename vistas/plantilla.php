@@ -68,7 +68,8 @@
             $_GET["ruta"] == "geomekh" ||
             $_GET["ruta"] == "mineral-test" ||
             $_GET["ruta"] == "mantenimiento" ||
-            $_GET["ruta"] == "sisvent"
+            $_GET["ruta"] == "sisvent"||
+            $_GET["ruta"] == "desarrollo-software-detalle"
 
         ) {
 

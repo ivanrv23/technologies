@@ -6,7 +6,7 @@
 
 
     <!-- Topbar Start -->
-    <div class="container-fluid bg-dark px-5 d-none d-lg-block" id="ini">
+    <div class="container-fluid bg-dark px-5 d-none d-lg-block">
         <div class="row gx-0">
             <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
@@ -29,7 +29,7 @@
         </div>
     </div>
     <!-- Topbar End -->
-    <div class="container-fluid position-relative p-0">
+    <div class="container-fluid position-relative p-0" id="ini">
         <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
             <a href="inicio" class="navbar-brand p-0">
                 <!-- <h1 class="m-0"><i class="fa fa-user-tie me-2"></i>Startup</h1> -->
