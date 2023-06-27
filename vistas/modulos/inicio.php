@@ -571,11 +571,12 @@
                         </div>
                         <div class="p-4">
                             <div class="d-flex mb-3">
-                                <small class="me-3"><i class="far fa-user text-primary me-2"></i>Geotekh technologies</small>
+                                <small class="me-3"><i class="far fa-user text-primary me-2"></i>Geotekh Technologies</small>
                                 <!-- <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small> -->
                             </div>
-                            <h4 class="mb-3">How to build a website</h4>
-                            <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
+                            <h4 class="mb-3">Sistema de Gestión de mantenimiento de Equipos</h4>
+                            <p style="text-align: justify;">Potencia el rendimiento y maximiza la vida útil de tus equipos con nuestro sistema de 
+                            mantenimiento de vanguardia.</p>
                             <a class="text-uppercase" href="maintekh">Conocer más <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
@@ -591,8 +592,9 @@
                                 <small class="me-3"><i class="far fa-user text-primary me-2"></i>Geotekh technologies</small>
                                 <!-- <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small> -->
                             </div>
-                            <h4 class="mb-3">How to build a website</h4>
-                            <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
+                            <h4 class="mb-3">Software de Logueo Geotécnico de sondajes</h4>
+                            <p style="text-align: justify;">No pierdas tiempo ni recursos en el logueo manual. NUestro software te ofrece una solución inteligente y 
+                                confiable para el logueo geotécnico de sondajes orientados.</p>
                             <a class="text-uppercase" href="logtekh">Conocer más <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
@@ -608,8 +610,9 @@
                                 <small class="me-3"><i class="far fa-user text-primary me-2"></i>Geotekh technologies</small>
                                 <!-- <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small> -->
                             </div>
-                            <h4 class="mb-3">How to build a website</h4>
-                            <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
+                            <h4 class="mb-3">Aplicación móvil para la clasificación geomecánica del macizo rocoso</h4>
+                            <p style="text-align: justify;">Lleva la clasificación geomecánica del macizo rocoso al siguiente nivel. Obtén datos precisos en tiempo real, 
+                                aplica los métodos más confiables y genera informes detallados con gráficos impactantes.</p>
                             <a class="text-uppercase" href="geomekh">Conocer más <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
@@ -625,8 +628,8 @@
                                 <small class="me-3"><i class="far fa-user text-primary me-2"></i>Geotekh technologies</small>
                                 <!-- <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small> -->
                             </div>
-                            <h4 class="mb-3">How to build a website</h4>
-                            <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
+                            <h4 class="mb-3">Aplicación móvil para identificar minerales</h4>
+                            <p>Identifica cualquier mineral ingresando sus propiedades físicas que encuentres en tu camino, descubre los usos y valor de cada mineral.</p>
                             <a class="text-uppercase" href="mineral-test">Conocer más <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
@@ -635,15 +638,16 @@
                     <div class="blog-item bg-light rounded overflow-hidden">
                         <div class="blog-img position-relative overflow-hidden">
                             <img class="img-fluid" src="vistas/img/sistema-trujillo-mockup.jpg" alt="">
-                            <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">SISTEMA TRUJILLO</a>
+                            <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">GEOMEKH ENTERPRISE</a>
                         </div>
                         <div class="p-4">
                             <div class="d-flex mb-3">
                                 <small class="me-3"><i class="far fa-user text-primary me-2"></i>Geotekh technologies</small>
                                 <!-- <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small> -->
                             </div>
-                            <h4 class="mb-3">How to build a website</h4>
-                            <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
+                            <h4 class="mb-3">Sistema completo para la clasificación geomecánica del macizo rocoso</h4>
+                            <p style="text-align: justify;">¿Eres una empresa de geomecánica? Lleva la clasificación geomecánica del macizo rocoso al siguiente nivel. 
+                            Obtén datos precisos en tiempo real, aplica los métodos más confiables y genera informes detallados con gráficos impactantes desde cualquier plataforma
                             <a class="text-uppercase" href="mantenimiento">Conocer más <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
@@ -652,15 +656,15 @@
                     <div class="blog-item bg-light rounded overflow-hidden">
                         <div class="blog-img position-relative overflow-hidden">
                             <img class="img-fluid" src="vistas/img/sisvent-mockup.png" alt="">
-                            <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">SISVENT</a>
+                            <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">SISTEMA DE VENTAS</a>
                         </div>
                         <div class="p-4">
                             <div class="d-flex mb-3">
                                 <small class="me-3"><i class="far fa-user text-primary me-2"></i>Geotekh technologies</small>
                                 <!-- <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small> -->
                             </div>
-                            <h4 class="mb-3">How to build a website</h4>
-                            <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
+                            <h4 class="mb-3">Sistema de venta con emisión de comprobantes electrónicos</h4>
+                            <p>Controla tus ventas, gestiona tu inventario, emite tus comprobantes directo a SUNAT.</p>
                             <a class="text-uppercase" href="sisvent">Conocer más <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
