@@ -191,7 +191,7 @@
                         <h1 class="display-5 mb-3">
                             <small class="align-top" style="font-size: 22px; line-height: 45px;">S/.</small>399.90<small class="align-bottom" style="font-size: 16px; line-height: 40px;"></small>
                         </h1>
-                        <div class="d-flex justify-content-between mb-3"><span>1GbHosting profesional</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>1Gb Hosting profesional</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-3"><span>Dominio .com gratuito durante el 1° año</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-3"><span>7 Secciones gestionables.</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-2"><span>8 Subdominios.</span><i class="fa fa-check text-primary pt-1"></i></div>
@@ -218,7 +218,7 @@
                         <h1 class="display-5 mb-3">
                             <small class="align-top" style="font-size: 22px; line-height: 45px;">S/.</small>499.90<small class="align-bottom" style="font-size: 16px; line-height: 40px;"></small>
                         </h1>
-                        <div class="d-flex justify-content-between mb-3"><span>5GbHosting profesional</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>5Gb Hosting profesional</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-3"><span>Dominio .com gratuito durante el 1° año</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-3"><span>De 10 Secciones gestionables a más.</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-2"><span>Hasta 6 Subdominios.</span><i class="fa fa-check text-primary pt-1"></i></div>
