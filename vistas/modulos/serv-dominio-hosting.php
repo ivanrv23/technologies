@@ -97,7 +97,7 @@
                         <div class="d-flex justify-content-between mb-3"><span>Dominios como .com, .net, .org</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-3"><span>5 cuentas correo profesional</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-2"><span>Certificación SSL gratuito</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <a href="" class="btn btn-primary py-2 px-4 mt-4">Contratar</a>
+                        <a href="contacto" class="btn btn-primary py-2 px-4 mt-4">Contratar</a>
                     </div>
                 </div>
             </div>
@@ -116,7 +116,7 @@
                         <div class="d-flex justify-content-between mb-3"><span>Dominios como .com, .net, .org</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-3"><span>10 cuentas correo profesional</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-2"><span>Certificación SSL gratuito</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <a href="" class="btn btn-primary py-2 px-4 mt-4">Contratar</a>
+                        <a href="contacto" class="btn btn-primary py-2 px-4 mt-4">Contratar</a>
                     </div>
                 </div>
             </div>
@@ -135,7 +135,7 @@
                         <div class="d-flex justify-content-between mb-3"><span>Dominios como .com, .net, .org</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-3"><span>Correos corporativos ilimitados</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-2"><span>Certificación SSL gratuito</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <a href="" class="btn btn-primary py-2 px-4 mt-4">Contratar</a>
+                        <a href="contacto" class="btn btn-primary py-2 px-4 mt-4">Contratar</a>
                     </div>
                 </div>
             </div>
