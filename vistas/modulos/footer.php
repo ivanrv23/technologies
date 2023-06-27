@@ -7,7 +7,7 @@
                         <a href="index.html" class="navbar-brand">
                             <img class="img-fluid rounded" src="vistas/img/logo-technologies-b.png" id="logoBlanco">
                         </a>
-                        <p class="mt-3 mb-4">Empresa de Desarrollo de Software y Soluciones Tecnológicas.</p>
+                        <p class="mt-3 mb-4">Empresa donde ofrecemos Desarrollo de Software, soporte técnico, asesosría en TI y Soluciones Tecnológicas en general.</p>
                         <!-- <form action="">
                             <div class="input-group">
                                 <input type="text" class="form-control border-white p-3" placeholder="Ingresa tu correo">

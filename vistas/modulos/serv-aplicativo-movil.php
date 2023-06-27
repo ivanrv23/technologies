@@ -7,7 +7,7 @@
 </div>
 </div>
 <!-- Navbar End -->
-<!-- About Start -->
+<!-- Información Start -->
 <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
     <div class="container">
         <div class="row g-5">
@@ -20,7 +20,7 @@
                     Diseñamos la mejor experiencia de usuario que aporte
                     valor a tus clientes e incremente la interacción con tu
                     marca o negocio en cada uno de tus canales digitales,
-                    potenciando tu marca en las plataformas de Android e
+                    potenciando tu marca en las plataformas de Android y
                     IOS.</p>
                 <div class="row g-0 mb-3">
                     <div class="col-sm-12 wow zoomIn" data-wow-delay="0.2s">
@@ -53,7 +53,7 @@
         </div>
     </div>
 </div>
-<!-- About End -->
+<!-- Información End -->
 <!-- Service Start -->
 <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
     <div class="container py-5">
@@ -90,7 +90,7 @@
                     <p class="m-0">¿Tienes un juego en mente? Hazlo realidad con nuestro equipo profesional de desarrollo.</p>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+            <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="1.2s">
                 <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                     <div class="service-icon">
                         <i class="fab fa-android text-white"></i>
@@ -99,7 +99,7 @@
                     <p class="m-0">Te asesoramos para que puedas subir tus aplicativos a Play Store para android.</p>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+            <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="1.5s">
                 <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                     <div class="service-icon">
                         <i class="fa fa-search text-white"></i>
@@ -108,7 +108,7 @@
                     <p class="m-0">Te asesoramos para que subas tus aplicativos a la App Store de Apple.</p>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
+            <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="1.8s">
                 <a href="https://api.whatsapp.com/send?phone=997226188&text=Buen%20d%C3%ADa,%20quiero%20m%C3%A1s%20informaci%C3%B3n" target="_blank">
                 <div class=" position-relative bg-primary rounded h-100 d-flex flex-column align-items-center justify-content-center text-center p-5">
                     <h4 class="text-white mb-3">Contáctate con nosotros</h3>

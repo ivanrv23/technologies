@@ -35,19 +35,19 @@
                     <div class="section-title position-relative pb-3 mb-5">
                         <h1 class="mb-0">Diseño y desarrollo de Sistemas Web</h1>
                     </div>
-                    <p class="mb-4">Te ayudamos con el diseño y creacion de tu propia página web. Repotencia tu negocio o empresa llegando a más personas y multiplica tus ventas</p>
+                    <p class="mb-4">Creamos tu sistema web con acceso mediante roles. Repotencia tu negocio o empresa teniendo una adecuada gestión y control de tus actividades</p>
                     <div class="row g-0 mb-3">
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Orientación al cliente</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Innovación constante</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Competitividad</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Equipo de profesionales</h5>
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Trabajamos por módulos</h5>
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Diseños de acuerdo al cliente</h5>
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Manejo de Usuarios</h5>
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Reportes</h5>
                         </div>
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.4s">
                             <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Seguridad</h5>
                             <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Compromiso</h5>
                             <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Soporte 24/7</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Precios accesibles</h5>
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Calidad</h5>
                         </div>
                     </div>
                     <div class="d-flex align-items-center mb-4 wow fadeIn" data-wow-delay="0.6s">
@@ -78,8 +78,8 @@
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
-                <h5 class="fw-bold text-primary text-uppercase">Nuestros Servicios</h5>
-                <h1 class="mb-0">Desarrollo de Páginas Web</h1>
+                <h5 class="fw-bold text-primary text-uppercase">Diferentes rubros</h5>
+                <h1 class="mb-0">De acuerdo al perfil de tus necesidades</h1>
             </div>
             <div class="row g-5">
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
@@ -88,7 +88,7 @@
                             <i class="fa fa-shield-alt text-white"></i>
                         </div>
                         <h4 class="mb-3">Tienda virtual</h4>
-                        <p class="m-0">Tu tienda virtual desde tu dispositvo móvil, vende desde cualquier lado.</p>
+                        <p class="m-0">Agrega un producto al carrito, vende desde cualquier lado.</p>
                         <a class="btn btn-lg btn-primary rounded" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -100,7 +100,7 @@
                             <i class="fa fa-chart-pie text-white"></i>
                         </div>
                         <h4 class="mb-3">Educación</h4>
-                        <p class="m-0">Creamos aplicativos para educación.</p>
+                        <p class="m-0">Registra las notas de tus estudiantes.</p>
                         <a class="btn btn-lg btn-primary rounded" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -111,8 +111,8 @@
                         <div class="service-icon">
                             <i class="fa fa-code text-white"></i>
                         </div>
-                        <h4 class="mb-3">Videojuegos</h4>
-                        <p class="m-0">¿Tienes un juego en mente? Hazlo realidad con nuestro equipo profesional de desarrollo.</p>
+                        <h4 class="mb-3">Sistema de ventas</h4>
+                        <p class="m-0">Registra toda tus compras y ventas.</p>
                         <a class="btn btn-lg btn-primary rounded" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -123,8 +123,8 @@
                         <div class="service-icon">
                             <i class="fab fa-android text-white"></i>
                         </div>
-                        <h4 class="mb-3">Play Store</h4>
-                        <p class="m-0">Te asesoramos para que puedas subir tus aplicativos a Play Store para android.</p>
+                        <h4 class="mb-3">Inventarios</h4>
+                        <p class="m-0">Ten el control total de tus productos y servicios.</p>
                         <a class="btn btn-lg btn-primary rounded" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -135,8 +135,8 @@
                         <div class="service-icon">
                             <i class="fa fa-search text-white"></i>
                         </div>
-                        <h4 class="mb-3">App Store</h4>
-                        <p class="m-0">Te asesoramos para que subas tus aplicativos a la App Store de Apple.</p>
+                        <h4 class="mb-3">Reportes</h4>
+                        <p class="m-0">Descarga tus reportes en varios formatos de presentación.</p>
                         <a class="btn btn-lg btn-primary rounded" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
