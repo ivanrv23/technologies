@@ -55,15 +55,20 @@
                     <h5 class="fw-bold text-primary text-uppercase">Nuestro Sistema</h5>
                     <h1 class="mb-0">Gestiona tus mantenimientos de foma óptima</h1>
                 </div>
-                <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod magna dolore erat amet</p>
+                <p class="mb-4">Simplifica y potencia la gestión de mantenimiento con MAINTEKH: el sistema web completo que incluye cotización, facturación, 
+                    programación de tareas, órdenes de trabajo y mucho más. MAINTEKH es el aliado perfecto para empresas de mantenimiento de línea amarilla, 
+                    equipos industriales, equipos de cómputo, etc. Organiza, controla y genera tus mantenimientos con resultados impactantes, aumenta la 
+                    productividad, maximiza tus resultados, ahorra tiempo y costos.</p>
                 <div class="row g-0 mb-3">
                     <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Award Winning</h5>
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Professional Staff</h5>
+                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Cotizaciones y Facturación</h5>
+                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Registro de Tickets</h5>
+                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Registro de Órdenes de servicio</h5>
                     </div>
                     <div class="col-sm-6 wow zoomIn" data-wow-delay="0.4s">
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>24/7 Support</h5>
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Fair Prices</h5>
+                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Programación</h5>
+                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Órdenes de Trabajo</h5>
+                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Reportes de trabajo</h5>
                     </div>
                 </div>
                 <div class="d-flex align-items-center mb-4 wow fadeIn" data-wow-delay="0.6s">
@@ -71,11 +76,11 @@
                         <i class="fa fa-phone-alt text-white"></i>
                     </div>
                     <div class="ps-4">
-                        <h5 class="mb-2">Call to ask any question</h5>
-                        <h4 class="text-primary mb-0">+012 345 6789</h4>
+                        <h5 class="mb-2">Solicite su demo</h5>
+                        <h4 class="text-primary mb-0">+51 997 226 188</h4>
                     </div>
                 </div>
-                <a href="#planes" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Planes</a>
+                <a href="contacto" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Solicitar demo</a>
             </div>
             <div class="col-lg-5" style="min-height: 500px;">
                 <div class="position-relative h-100">
@@ -100,8 +105,8 @@
                     <div class="service-icon">
                         <i class="fa fa-shield-alt text-white"></i>
                     </div>
-                    <h4 class="mb-3">Cyber Security</h4>
-                    <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
+                    <h4 class="mb-3">Facturación</h4>
+                    <p class="m-0">Este módulo incluye cotización y facturación</p>
                     <a class="btn btn-lg btn-primary rounded" href="">
                         <i class="bi bi-arrow-right"></i>
                     </a>
@@ -112,8 +117,8 @@
                     <div class="service-icon">
                         <i class="fa fa-chart-pie text-white"></i>
                     </div>
-                    <h4 class="mb-3">Data Analytics</h4>
-                    <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
+                    <h4 class="mb-3">Registro</h4>
+                    <p class="m-0">Este módulo incluye generación de tickets y órdenes de servicio</p>
                     <a class="btn btn-lg btn-primary rounded" href="">
                         <i class="bi bi-arrow-right"></i>
                     </a>
@@ -124,8 +129,8 @@
                     <div class="service-icon">
                         <i class="fa fa-code text-white"></i>
                     </div>
-                    <h4 class="mb-3">Web Development</h4>
-                    <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
+                    <h4 class="mb-3">Programación</h4>
+                    <p class="m-0">Este módulo sirve para establecer fechas y asignar técnicos para que realicen los mantenimientos respectivos</p>
                     <a class="btn btn-lg btn-primary rounded" href="">
                         <i class="bi bi-arrow-right"></i>
                     </a>
@@ -136,8 +141,8 @@
                     <div class="service-icon">
                         <i class="fab fa-android text-white"></i>
                     </div>
-                    <h4 class="mb-3">Apps Development</h4>
-                    <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
+                    <h4 class="mb-3">Órdenes de trabajo</h4>
+                    <p class="m-0">Este módulo incluye el registro de las actividades que realiza el técnico en cada equipo y el registro de solicitudes para cambios de piezas y repuestos</p>
                     <a class="btn btn-lg btn-primary rounded" href="">
                         <i class="bi bi-arrow-right"></i>
                     </a>
@@ -148,8 +153,8 @@
                     <div class="service-icon">
                         <i class="fa fa-search text-white"></i>
                     </div>
-                    <h4 class="mb-3">SEO Optimization</h4>
-                    <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
+                    <h4 class="mb-3">Reportes</h4>
+                    <p class="m-0">Este módulo incluye la generación de reportes de acuerdo a los parámetros y fechas, descargas los resultados en formatos Excel y PDF.</p>
                     <a class="btn btn-lg btn-primary rounded" href="">
                         <i class="bi bi-arrow-right"></i>
                     </a>
@@ -160,8 +165,8 @@
                     <div class="service-icon">
                         <i class="fa fa-search text-white"></i>
                     </div>
-                    <h4 class="mb-3">SEO Optimization</h4>
-                    <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
+                    <h4 class="mb-3">Administración</h4>
+                    <p class="m-0">Incluye el control de accesos al sistema, registro de equipos, registro de técnicos, registro de clientes y configuración en general</p>
                     <a class="btn btn-lg btn-primary rounded" href="">
                         <i class="bi bi-arrow-right"></i>
                     </a>
@@ -176,14 +181,14 @@
 <div id="planes" class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
     <div class="container py-5">
         <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
-            <h5 class="fw-bold text-primary text-uppercase">Pricing Plans</h5>
-            <h1 class="mb-0">We are Offering Competitive Prices for Our Clients</h1>
+            <h5 class="fw-bold text-primary text-uppercase">Nuestros planes</h5>
+            <h1 class="mb-0">Ofrecemos planes pensando en nuestros clientes</h1>
         </div>
         <div class="row g-0">
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.6s">
                 <div class="bg-light rounded">
                     <div class="border-bottom py-4 px-5 mb-4">
-                        <h4 class="text-primary mb-1">Basic Plan</h4>
+                        <h4 class="text-primary mb-1">Plan Básico</h4>
                         <small class="text-uppercase">For Small Size Business</small>
                     </div>
                     <div class="p-5 pt-0">
@@ -201,7 +206,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="bg-white rounded shadow position-relative" style="z-index: 1;">
                     <div class="border-bottom py-4 px-5 mb-4">
-                        <h4 class="text-primary mb-1">Standard Plan</h4>
+                        <h4 class="text-primary mb-1">Plan Premium</h4>
                         <small class="text-uppercase">For Medium Size Business</small>
                     </div>
                     <div class="p-5 pt-0">
@@ -219,7 +224,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                 <div class="bg-light rounded">
                     <div class="border-bottom py-4 px-5 mb-4">
-                        <h4 class="text-primary mb-1">Advanced Plan</h4>
+                        <h4 class="text-primary mb-1">Plan Enterprise</h4>
                         <small class="text-uppercase">For Large Size Business</small>
                     </div>
                     <div class="p-5 pt-0">
