@@ -24,12 +24,12 @@
                     IOS.</p>
                 <div class="row g-0 mb-3">
                     <div class="col-sm-12 wow zoomIn" data-wow-delay="0.2s">
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Monitorización y gestión de procesos.</h5>
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Monetización adaptada al modelo de negocio.</h5>
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Aumento en ventas y reducción de costos</h5>
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Fidelización de clientes.</h5>
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Posicionamiento y visibilidad en el mercado.</h5>
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Reactivación y reducción de la tasa de abandono de clientes.</h5>
+                        <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Monitorización y gestión de procesos.</h6>
+                        <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Monetización adaptada al modelo de negocio.</h6>
+                        <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Aumento en ventas y reducción de costos</h6>
+                        <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Fidelización de clientes.</h6>
+                        <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Posicionamiento y visibilidad en el mercado.</h6>
+                        <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Reactivación y reducción de la tasa de abandono de clientes.</h6>
                     </div>
                 </div>
                 <div class="d-flex align-items-center mb-4 wow fadeIn" data-wow-delay="0.6s">
@@ -37,7 +37,7 @@
                         <i class="fa fa-phone-alt text-white"></i>
                     </div>
                     <div class="ps-4">
-                        <h5 class="mb-2">Para dudas y consultas, comunicarse al número</h5>
+                        <h6 class="mb-2">Para dudas y consultas, comunicarse al número</h6>
                         <h4 class="text-primary mb-0">+51 997 226 188</h4>
                     </div>
                 </div>
@@ -47,7 +47,7 @@
             </div>
             <div class="col-lg-5" style="min-height: 500px;">
                 <div class="position-relative h-100">
-                    <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="vistas/img/about.jpg" style="object-fit: cover;">
+                    <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.4s" src="vistas/img/imagenes/img-app-mobiles.png" style="object-fit: cover;">
                 </div>
             </div>
         </div>
