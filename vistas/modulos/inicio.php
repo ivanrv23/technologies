@@ -69,7 +69,7 @@
                             <i class="fa fa-award text-primary"></i>
                         </div>
                         <div class="ps-4">
-                            <h5 class="text-white mb-0">Por definir</h5>
+                            <h5 class="text-white mb-0">Proyectos en proceso</h5>
                             <h1 class="text-white mb-0" data-toggle="counter-up">5</h1>
                         </div>
                     </div>
