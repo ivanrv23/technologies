@@ -37,25 +37,6 @@
     <!-- Navbar & Carousel End -->
 
 
-    <!-- Full Screen Search Start -->
-    <div class="modal fade" id="searchModal" tabindex="-1">
-        <div class="modal-dialog modal-fullscreen">
-            <div class="modal-content" style="background: rgba(9, 30, 62, .7);">
-                <div class="modal-header border-0">
-                    <button type="button" class="btn bg-white btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body d-flex align-items-center justify-content-center">
-                    <div class="input-group" style="max-width: 600px;">
-                        <input type="text" class="form-control bg-transparent border-primary p-3" placeholder="Type search keyword">
-                        <button class="btn btn-primary px-4"><i class="bi bi-search"></i></button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Full Screen Search End -->
-
-
     <!-- Facts Start -->
     <div class="container-fluid facts py-5 pt-lg-0">
         <div class="container py-5 pt-lg-0">
@@ -103,11 +84,15 @@
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="row g-5">
-                <div class="col-lg-7">
+                <div class="col-6">
                     <div class="section-title position-relative pb-3 mb-5">
                         <h5 class="fw-bold text-primary text-uppercase">Sobre nosotros</h5>
                         <h1 class="mb-0">Contamos con mas de 10 años ofreciendo los mejores servicios tecnológicos para empresas e instituciones</h1>
                     </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-6">
                     <p class="mb-4">Somos un equipo de especialistas en soluciones empresariales de tecnología, brindando confianza, compromiso y calidad en cada uno de nuestros servicios, garantizando resultados eficientes.</p>
                     <div class="row g-0 mb-3">
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
@@ -134,9 +119,9 @@
                     </div>
                     <a href="#sc" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Solicitar cotización</a>
                 </div>
-                <div class="col-lg-5" style="min-height: 500px;">
-                    <div class="position-relative h-100">
-                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="vistas/img/imagenes/img-nosotros-principal.png" style="object-fit: cover;">
+                <div class="col">
+                    <div class="position-relative ">
+                        <img class="img-fluid w-70" data-wow-delay="0.9s" src="vistas/img/imagenes/img-nosotros-principal.png">
                     </div>
                 </div>
             </div>
@@ -365,65 +350,65 @@
 
 
     <!-- Quote Start -->
-    <div id="sc">   
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container py-5">
-            <div class="row g-5">
-                <div class="col-lg-7">
-                    <div class="section-title position-relative pb-3 mb-5">
-                        <h5 class="fw-bold text-primary text-uppercase">Realiza una cotización gratis</h5>
-                        <h1 class="mb-0">¿Necesita una cotización gratis? No dude en ponerse en contacto con nosotros</h1>
-                    </div>
-                    <div class="row gx-3">
-                        <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
-                            <h5 class="mb-4"><i class="fa fa-reply text-primary me-3"></i>Respondemos normalmente durante 24 horas</h5>
+    <div id="sc">
+        <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="container py-5">
+                <div class="row g-5">
+                    <div class="col-lg-7">
+                        <div class="section-title position-relative pb-3 mb-5">
+                            <h5 class="fw-bold text-primary text-uppercase">Realiza una cotización gratis</h5>
+                            <h1 class="mb-0">¿Necesita una cotización gratis? No dude en ponerse en contacto con nosotros</h1>
                         </div>
-                        <div class="col-sm-6 wow zoomIn" data-wow-delay="0.4s">
-                            <h5 class="mb-4"><i class="fa fa-phone-alt text-primary me-3"></i>Soporte por teléfono las 24 horas</h5>
-                        </div>
-                    </div>
-                    <p class="mb-4">Cuéntanos sobre tu proyecto</p>
-                    <div class="d-flex align-items-center mt-2 wow zoomIn" data-wow-delay="0.6s">
-                        <div class="bg-primary d-flex align-items-center justify-content-center rounded" style="width: 60px; height: 60px;">
-                            <i class="fa fa-phone-alt text-white"></i>
-                        </div>
-                        <div class="ps-4">
-                            <h5 class="mb-2">Contáctate con nostros</h5>
-                            <h4 class="text-primary mb-0">+51 997 226 188</h4>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-5">
-                    <div class="bg-primary rounded h-100 d-flex align-items-center p-5 wow zoomIn" data-wow-delay="0.9s">
-                        <form>
-                            <div class="row g-3">
-                                <div class="col-xl-12">
-                                    <input type="text" class="form-control bg-light border-0" id="nombreCotiza" placeholder="Nombre" style="height: 55px;">
-                                </div>
-                                <div class="col-12">
-                                    <input type="email" class="form-control bg-light border-0" id="correoCotiza" placeholder="Correo electrónico" style="height: 55px;">
-                                </div>
-                                <div class="col-12">
-                                    <select class="form-select bg-light border-0" id="asuntoCotiza" style="height: 55px;">
-                                        <option value="">Seleccione un servicio</option>
-                                        <option value="Desarrollo de Software">Desarrollo de Software</option>
-                                        <option value="Aplicativo Móvil">Aplicativo Móvil</option>
-                                        <option value="Proyectos">Proyectos</option>
-                                    </select>
-                                </div>
-                                <div class="col-12">
-                                    <textarea class="form-control bg-light border-0" id="mensajeCotiza" rows="3" placeholder="Mensaje"></textarea>
-                                </div>
-                                <div class="col-12">
-                                    <button type="button" class="btn btn-dark w-100 py-3" onclick="enviarMensajeCotizacion()">ENVIAR</button>
-                                </div>
+                        <div class="row gx-3">
+                            <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
+                                <h5 class="mb-4"><i class="fa fa-reply text-primary me-3"></i>Respondemos normalmente durante 24 horas</h5>
                             </div>
-                        </form>
+                            <div class="col-sm-6 wow zoomIn" data-wow-delay="0.4s">
+                                <h5 class="mb-4"><i class="fa fa-phone-alt text-primary me-3"></i>Soporte por teléfono las 24 horas</h5>
+                            </div>
+                        </div>
+                        <p class="mb-4">Cuéntanos sobre tu proyecto</p>
+                        <div class="d-flex align-items-center mt-2 wow zoomIn" data-wow-delay="0.6s">
+                            <div class="bg-primary d-flex align-items-center justify-content-center rounded" style="width: 60px; height: 60px;">
+                                <i class="fa fa-phone-alt text-white"></i>
+                            </div>
+                            <div class="ps-4">
+                                <h5 class="mb-2">Contáctate con nostros</h5>
+                                <h4 class="text-primary mb-0">+51 997 226 188</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-5">
+                        <div class="bg-primary rounded h-100 d-flex align-items-center p-5 wow zoomIn" data-wow-delay="0.9s">
+                            <form>
+                                <div class="row g-3">
+                                    <div class="col-xl-12">
+                                        <input type="text" class="form-control bg-light border-0" id="nombreCotiza" placeholder="Nombre" style="height: 55px;">
+                                    </div>
+                                    <div class="col-12">
+                                        <input type="email" class="form-control bg-light border-0" id="correoCotiza" placeholder="Correo electrónico" style="height: 55px;">
+                                    </div>
+                                    <div class="col-12">
+                                        <select class="form-select bg-light border-0" id="asuntoCotiza" style="height: 55px;">
+                                            <option value="">Seleccione un servicio</option>
+                                            <option value="Desarrollo de Software">Desarrollo de Software</option>
+                                            <option value="Aplicativo Móvil">Aplicativo Móvil</option>
+                                            <option value="Proyectos">Proyectos</option>
+                                        </select>
+                                    </div>
+                                    <div class="col-12">
+                                        <textarea class="form-control bg-light border-0" id="mensajeCotiza" rows="3" placeholder="Mensaje"></textarea>
+                                    </div>
+                                    <div class="col-12">
+                                        <button type="button" class="btn btn-dark w-100 py-3" onclick="enviarMensajeCotizacion()">ENVIAR</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
     </div>
     <!-- Quote End -->
 
@@ -575,8 +560,7 @@
                                 <!-- <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small> -->
                             </div>
                             <h4 class="mb-3">Sistema de Gestión de mantenimiento de Equipos</h4>
-                            <p style="text-align: justify;">Potencia el rendimiento y maximiza la vida útil de tus equipos con nuestro sistema de 
-                            mantenimiento de vanguardia.</p>
+                            <p style="text-align: justify;">Potencia el rendimiento y maximiza la vida útil de tus equipos con nuestro sistema de mantenimiento de vanguardia.</p>
                             <a class="text-uppercase" href="maintekh">Conocer más <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
@@ -593,8 +577,7 @@
                                 <!-- <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small> -->
                             </div>
                             <h4 class="mb-3">Software de Logueo Geotécnico de sondajes</h4>
-                            <p style="text-align: justify;">No pierdas tiempo ni recursos en el logueo manual. NUestro software te ofrece una solución inteligente y 
-                                confiable para el logueo geotécnico de sondajes orientados.</p>
+                            <p style="text-align: justify;">No pierdas tiempo ni recursos en el logueo manual. Nuestro software te ofrece una solución inteligente y confiable para el logueo geotécnico de sondajes orientados.</p>
                             <a class="text-uppercase" href="logtekh">Conocer más <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
@@ -611,7 +594,7 @@
                                 <!-- <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small> -->
                             </div>
                             <h4 class="mb-3">Aplicación móvil para la clasificación geomecánica del macizo rocoso</h4>
-                            <p style="text-align: justify;">Lleva la clasificación geomecánica del macizo rocoso al siguiente nivel. Obtén datos precisos en tiempo real, 
+                            <p style="text-align: justify;">Lleva la clasificación geomecánica del macizo rocoso al siguiente nivel. Obtén datos precisos en tiempo real,
                                 aplica los métodos más confiables y genera informes detallados con gráficos impactantes.</p>
                             <a class="text-uppercase" href="geomekh">Conocer más <i class="bi bi-arrow-right"></i></a>
                         </div>
@@ -646,9 +629,9 @@
                                 <!-- <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small> -->
                             </div>
                             <h4 class="mb-3">Sistema completo para la clasificación geomecánica del macizo rocoso</h4>
-                            <p style="text-align: justify;">¿Eres una empresa de geomecánica? Lleva la clasificación geomecánica del macizo rocoso al siguiente nivel. 
-                            Obtén datos precisos en tiempo real, aplica los métodos más confiables y genera informes detallados con gráficos impactantes desde cualquier plataforma
-                            <a class="text-uppercase" href="mantenimiento">Conocer más <i class="bi bi-arrow-right"></i></a>
+                            <p style="text-align: justify;">¿Eres una empresa de geomecánica? Lleva la clasificación geomecánica del macizo rocoso al siguiente nivel.
+                                Obtén datos precisos en tiempo real, aplica los métodos más confiables y genera informes detallados con gráficos impactantes desde cualquier plataforma
+                                <a class="text-uppercase" href="mantenimiento">Conocer más <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -693,13 +676,13 @@
         <div class="container mb-5">
             <div class="bg-white">
                 <div class="owl-carousel vendor-carousel">
-                    <img src="vistas/img/logos/creditos-1.png" alt="Cliente" style="width: 170px; height: 100px;" >
-                    <img src="vistas/img/logos/creditos-2.png" alt="Cliente" style="width: 170px; height: 100px;" >
-                    <img src="vistas/img/logos/creditos-3.png" alt="Cliente" style="width: 170px; height: 100px;" >
-                    <img src="vistas/img/logos/creditos-4.png" alt="Cliente" style="width: 170px; height: 100px;" >
-                    <img src="vistas/img/logos/creditos-5.png" alt="Cliente" style="width: 170px; height: 100px;" >
-                    <img src="vistas/img/logos/creditos-6.png" alt="Cliente" style="width: 170px; height: 100px;" >
-                    <img src="vistas/img/logos/creditos-7.png" alt="Cliente" style="width: 170px; height: 100px;" >
+                    <img src="vistas/img/logos/creditos-1.png" alt="Cliente" style="width: 170px; height: 100px;">
+                    <img src="vistas/img/logos/creditos-2.png" alt="Cliente" style="width: 170px; height: 100px;">
+                    <img src="vistas/img/logos/creditos-3.png" alt="Cliente" style="width: 170px; height: 100px;">
+                    <img src="vistas/img/logos/creditos-4.png" alt="Cliente" style="width: 170px; height: 100px;">
+                    <img src="vistas/img/logos/creditos-5.png" alt="Cliente" style="width: 170px; height: 100px;">
+                    <img src="vistas/img/logos/creditos-6.png" alt="Cliente" style="width: 170px; height: 100px;">
+                    <img src="vistas/img/logos/creditos-7.png" alt="Cliente" style="width: 170px; height: 100px;">
                 </div>
             </div>
         </div>
