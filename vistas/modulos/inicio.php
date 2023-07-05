@@ -81,18 +81,14 @@
 
 
     <!-- About Start -->
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container py-5">
+    <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container">
             <div class="row g-5">
-                <div class="col-6">
+                <div class="col-md-6 col-sm-12">
                     <div class="section-title position-relative pb-3 mb-5">
                         <h5 class="fw-bold text-primary text-uppercase">Sobre nosotros</h5>
                         <h1 class="mb-0">Contamos con mas de 10 años ofreciendo los mejores servicios tecnológicos para empresas e instituciones</h1>
                     </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-6">
                     <p class="mb-4">Somos un equipo de especialistas en soluciones empresariales de tecnología, brindando confianza, compromiso y calidad en cada uno de nuestros servicios, garantizando resultados eficientes.</p>
                     <div class="row g-0 mb-3">
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
@@ -119,12 +115,13 @@
                     </div>
                     <a href="#sc" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Solicitar cotización</a>
                 </div>
-                <div class="col">
-                    <div class="position-relative ">
-                        <img class="img-fluid w-70" data-wow-delay="0.9s" src="vistas/img/imagenes/img-nosotros-principal.png">
+                <div class="col-md-6 col-sm-12 " >
+                    <div class="position-relative">
+                        <img class="mt-5 img-fluid w-70" data-wow-delay="0.9s" src="vistas/img/imagenes/img-nosotros-principal.png">
                     </div>
                 </div>
             </div>
+
         </div>
     </div>
     <!-- About End -->
