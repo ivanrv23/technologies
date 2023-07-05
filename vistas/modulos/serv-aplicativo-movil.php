@@ -69,7 +69,6 @@
                     </div>
                     <h4 class="mb-3">Tienda virtual</h4>
                     <p class="m-0">Tu tienda virtual desde tu dispositvo móvil, vende desde cualquier lado.</p>
-
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
