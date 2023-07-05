@@ -90,9 +90,7 @@
                         </div>
                         <h4 class="mb-3">Tienda virtual</h4>
                         <p class="m-0">Tu tienda virtual desde tu dispositvo móvil, vende desde cualquier lado.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
-                            <i class="bi bi-arrow-right"></i>
-                        </a>
+                        
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
@@ -102,9 +100,7 @@
                         </div>
                         <h4 class="mb-3">Educación</h4>
                         <p class="m-0">Creamos aplicativos para educación.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
-                            <i class="bi bi-arrow-right"></i>
-                        </a>
+                        
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
@@ -114,9 +110,7 @@
                         </div>
                         <h4 class="mb-3">Videojuegos</h4>
                         <p class="m-0">¿Tienes un juego en mente? Hazlo realidad con nuestro equipo profesional de desarrollo.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
-                            <i class="bi bi-arrow-right"></i>
-                        </a>
+                        
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
@@ -126,9 +120,7 @@
                         </div>
                         <h4 class="mb-3">Play Store</h4>
                         <p class="m-0">Te asesoramos para que puedas subir tus aplicativos a Play Store para android.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
-                            <i class="bi bi-arrow-right"></i>
-                        </a>
+                        
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
@@ -138,9 +130,7 @@
                         </div>
                         <h4 class="mb-3">App Store</h4>
                         <p class="m-0">Te asesoramos para que subas tus aplicativos a la App Store de Apple.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
-                            <i class="bi bi-arrow-right"></i>
-                        </a>
+                        
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
