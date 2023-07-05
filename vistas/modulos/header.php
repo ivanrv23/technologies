@@ -64,7 +64,7 @@
                             <a id="logtekh" href="logtekh" class="dropdown-item">Logtekh</a>
                             <a id="geomekh" href="geomekh" class="dropdown-item">Geomekh</a>
                             <a id="mineral-test" href="mineral-test" class="dropdown-item">Mineral Test</a>
-                            <a id="mantenimiento" href="mantenimiento" class="dropdown-item">Sistema Trujillo</a>
+                            <a id="geomekh-enterprise" href="geomekh-enterprise" class="dropdown-item">Geomekh Enterprise</a>
                             <a id="sisvent" href="sisvent" class="dropdown-item">Sisvent</a>
                         </div>
                     </div>

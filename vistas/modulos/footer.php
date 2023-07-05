@@ -49,7 +49,7 @@
                                 <a class="text-light mb-2" href="inicio"><i class="bi bi-arrow-right text-primary me-2"></i>Inicio</a>
                                 <a class="text-light mb-2" href="nosotros"><i class="bi bi-arrow-right text-primary me-2"></i>Nosotros</a>
                                 <a class="text-light mb-2" href="desarrollo-software"><i class="bi bi-arrow-right text-primary me-2"></i>Servicios</a>
-                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Proyectos</a>
+                                <a class="text-light mb-2" href="maintekh"><i class="bi bi-arrow-right text-primary me-2"></i>Proyectos</a>
                                 <a class="text-light mb-2" href="tienda"><i class="bi bi-arrow-right text-primary me-2"></i>Tienda</a>
                                 <a class="text-light" href="contacto"><i class="bi bi-arrow-right text-primary me-2"></i>Contacto</a>
                             </div>
