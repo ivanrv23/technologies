@@ -211,7 +211,7 @@
                         <div class="d-flex justify-content-between mb-3"><span>Módulo de cotización de mantenimientos</span><i class="fa fa-times text-danger pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-3"><span>Facturación</span><i class="fa fa-times text-danger pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-2"><span>Geolocalización</span><i class="fa fa-times text-danger pt-1"></i></div>
-                        <a href="https://api.whatsapp.com/send?phone=+51997226188&text=%C2%A1Hola!%20Necesito%20informaci%C3%B3n%20del%20plan%20b%C3%A1sico%20de%20MAINTEKH" target="_blank" class="btn btn-primary py-2 px-4 mt-4">Solicitar</a>
+                        <a href="https://api.whatsapp.com/send?phone=+51997226188&text=%C2%A1Hola!%20Necesito%20informaci%C3%B3n%20del%20plan%20b%C3%A1sico%20de%20MAINTEKH" target="_blank" class="btn btn-primary py-2 px-4 mt-4">Lo quiero</a>
                     </div>
                 </div>
             </div>
@@ -241,7 +241,7 @@
                         <div class="d-flex justify-content-between mb-3"><span>Módulo de cotización de mantenimientos</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-3"><span>Facturación</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-2"><span>Geolocalización</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <a href="https://api.whatsapp.com/send?phone=+51997226188&text=%C2%A1Hola!%20Necesito%20informaci%C3%B3n%20del%20plan%20premium%20de%20MAINTEKH" target="_blank" class="btn btn-primary py-2 px-4 mt-4">Solicitar</a>
+                        <a href="https://api.whatsapp.com/send?phone=+51997226188&text=%C2%A1Hola!%20Necesito%20informaci%C3%B3n%20del%20plan%20premium%20de%20MAINTEKH" target="_blank" class="btn btn-primary py-2 px-4 mt-4">Lo quiero</a>
                     </div>
                 </div>
             </div>
@@ -269,7 +269,7 @@
                         <div class="d-flex justify-content-between mb-3"><span>Módulo de cotización de mantenimientos</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-3"><span>Facturación</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-2"><span>Geolocalización</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <a href="https://api.whatsapp.com/send?phone=+51997226188&text=%C2%A1Hola!%20Necesito%20un%20plan%20perzonalizado%20de%20MAINTEKH" target="_blank" class="btn btn-primary py-2 px-4 mt-4">Solicitar</a>
+                        <a href="https://api.whatsapp.com/send?phone=+51997226188&text=%C2%A1Hola!%20Necesito%20un%20plan%20perzonalizado%20de%20MAINTEKH" target="_blank" class="btn btn-primary py-2 px-4 mt-4">Lo quiero</a>
                     </div>
                 </div>
             </div>
