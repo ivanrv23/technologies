@@ -189,17 +189,29 @@
                 <div class="bg-light rounded">
                     <div class="border-bottom py-4 px-5 mb-4">
                         <h4 class="text-primary mb-1">Plan Básico</h4>
-                        <small class="text-uppercase">For Small Size Business</small>
+                        <small class="text-uppercase">Para empresas pequeñas</small>
                     </div>
                     <div class="p-5 pt-0">
                         <h1 class="display-5 mb-3">
-                            <small class="align-top" style="font-size: 22px; line-height: 45px;">$</small>49.00<small class="align-bottom" style="font-size: 16px; line-height: 40px;">/ Month</small>
+                            <small class="align-top" style="font-size: 22px; line-height: 45px;">S/.</small>120.00<small class="align-bottom" style="font-size: 16px; line-height: 40px;">/ Mes</small>
                         </h1>
-                        <div class="d-flex justify-content-between mb-3"><span>HTML5 & CSS3</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <div class="d-flex justify-content-between mb-3"><span>Bootstrap v5</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <div class="d-flex justify-content-between mb-3"><span>Responsive Layout</span><i class="fa fa-times text-danger pt-1"></i></div>
-                        <div class="d-flex justify-content-between mb-2"><span>Cross-browser Support</span><i class="fa fa-times text-danger pt-1"></i></div>
-                        <a href="" class="btn btn-primary py-2 px-4 mt-4">Order Now</a>
+                        <div class="d-flex justify-content-between mb-3"><span>3 usuarios (1 planner y 2 técnicos)</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Registro de equipos y órdenes de trabajo ilimitados</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Catálogo de equipos</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>Calendario de Programación</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Panel Dashboard</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Historial de mantenimiento</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>Programación de mantenimientos</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Tickets de atención</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Lista de repuestos y requerimientos</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Registro de clientes</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>Usuarios invitados ilimitados (solo lectura)</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Reportes</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Duplicado de equipos</span><i class="fa fa-times text-danger pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Módulo de cotización de mantenimientos</span><i class="fa fa-times text-danger pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Facturación</span><i class="fa fa-times text-danger pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>Geolocalización</span><i class="fa fa-times text-danger pt-1"></i></div>
+                        <a href="https://api.whatsapp.com/send?phone=+51997226188&text=%C2%A1Hola!%20Necesito%20informaci%C3%B3n%20del%20plan%20b%C3%A1sico%20de%20MAINTEKH" target="_blank" class="btn btn-primary py-2 px-4 mt-4">Solicitar</a>
                     </div>
                 </div>
             </div>
@@ -207,35 +219,57 @@
                 <div class="bg-white rounded shadow position-relative" style="z-index: 1;">
                     <div class="border-bottom py-4 px-5 mb-4">
                         <h4 class="text-primary mb-1">Plan Premium</h4>
-                        <small class="text-uppercase">For Medium Size Business</small>
+                        <small class="text-uppercase">Para empresas medianas</small>
                     </div>
                     <div class="p-5 pt-0">
                         <h1 class="display-5 mb-3">
-                            <small class="align-top" style="font-size: 22px; line-height: 45px;">$</small>99.00<small class="align-bottom" style="font-size: 16px; line-height: 40px;">/ Month</small>
+                            <small class="align-top" style="font-size: 22px; line-height: 45px;">S/.</small>200.00<small class="align-bottom" style="font-size: 16px; line-height: 40px;">/ Mes</small>
                         </h1>
-                        <div class="d-flex justify-content-between mb-3"><span>HTML5 & CSS3</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <div class="d-flex justify-content-between mb-3"><span>Bootstrap v5</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <div class="d-flex justify-content-between mb-3"><span>Responsive Layout</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <div class="d-flex justify-content-between mb-2"><span>Cross-browser Support</span><i class="fa fa-times text-danger pt-1"></i></div>
-                        <a href="" class="btn btn-primary py-2 px-4 mt-4">Order Now</a>
+                        <div class="d-flex justify-content-between mb-3"><span>6 usuarios (2 planners y 4 técnicos)</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Registro de equipos y órdenes de trabajo ilimitados</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Catálogo de equipos</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>Calendario de Programación</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Panel Dashboard</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Historial de mantenimiento</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>Programación de mantenimientos</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Tickets de atención</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Lista de repuestos y requerimientos</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Registro de clientes</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>Usuarios invitados ilimitados (solo lectura)</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Reportes</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Duplicado de equipos</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Módulo de cotización de mantenimientos</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Facturación</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>Geolocalización</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <a href="https://api.whatsapp.com/send?phone=+51997226188&text=%C2%A1Hola!%20Necesito%20informaci%C3%B3n%20del%20plan%20premium%20de%20MAINTEKH" target="_blank" class="btn btn-primary py-2 px-4 mt-4">Solicitar</a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                 <div class="bg-light rounded">
                     <div class="border-bottom py-4 px-5 mb-4">
-                        <h4 class="text-primary mb-1">Plan Enterprise</h4>
-                        <small class="text-uppercase">For Large Size Business</small>
+                        <h4 class="text-primary mb-1">Plan Personalizado</h4>
+                        <small class="text-uppercase">Para gran empresas</small>
                     </div>
                     <div class="p-5 pt-0">
-                        <h1 class="display-5 mb-3">
-                            <small class="align-top" style="font-size: 22px; line-height: 45px;">$</small>149.00<small class="align-bottom" style="font-size: 16px; line-height: 40px;">/ Month</small>
-                        </h1>
-                        <div class="d-flex justify-content-between mb-3"><span>HTML5 & CSS3</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <div class="d-flex justify-content-between mb-3"><span>Bootstrap v5</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <div class="d-flex justify-content-between mb-3"><span>Responsive Layout</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <div class="d-flex justify-content-between mb-2"><span>Cross-browser Support</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <a href="" class="btn btn-primary py-2 px-4 mt-4">Order Now</a>
+                        <h1 class="display-5 mb-3 text-center">∞</h1>
+                        <div class="d-flex justify-content-between mb-3"><span>Usuarios personalizados</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Registro de equipos y órdenes de trabajo ilimitados</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Catálogo de equipos</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>Calendario de Programación</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Panel Dashboard</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Historial de mantenimiento</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>Programación de mantenimientos</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Tickets de atención</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Lista de repuestos y requerimientos</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Registro de clientes</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>Usuarios invitados ilimitados (solo lectura)</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Reportes</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Duplicado de equipos</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Módulo de cotización de mantenimientos</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Facturación</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>Geolocalización</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <a href="https://api.whatsapp.com/send?phone=+51997226188&text=%C2%A1Hola!%20Necesito%20un%20plan%20perzonalizado%20de%20MAINTEKH" target="_blank" class="btn btn-primary py-2 px-4 mt-4">Solicitar</a>
                     </div>
                 </div>
             </div>
