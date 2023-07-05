@@ -136,7 +136,7 @@
                 </div>
                 <div class="col-lg-5" style="min-height: 500px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="vistas/img/about.jpg" style="object-fit: cover;">
+                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="vistas/img/imagenes/img-nosotros-principal.jpg" style="object-fit: cover;">
                     </div>
                 </div>
             </div>
@@ -230,7 +230,7 @@
                         </div>
                         <h4 class="mb-3">Dominio y Hosting</h4>
                         <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="serv-dominio-hosting">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -242,7 +242,7 @@
                         </div>
                         <h4 class="mb-3">Desarrollo de Software</h4>
                         <p class="m-0">Diseñamos y desarrollamos software a medida de acuerdo a las nesecidades y procedimientos de tu empresa</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="serv-desarrollo-software">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -254,7 +254,7 @@
                         </div>
                         <h4 class="mb-3">Desarrollo de Sistemas Web</h4>
                         <p class="m-0">Construccion de sistemas web con un diseño atractivo y fácil uso</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="serv-sistemas-web">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -266,7 +266,7 @@
                         </div>
                         <h4 class="mb-3">Desarrollo de Aplicaciones Móviles</h4>
                         <p class="m-0">Proporcionamos soluciones móviles a medida, seguras y escalables.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="serv-aplicativo-movil">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -278,7 +278,7 @@
                         </div>
                         <h4 class="mb-3">Mantenimiento de Equipos Informáticos</h4>
                         <p class="m-0">Ofrecesmos servicios de mantenimiento preventivo y correctivo con la finalidad de mantener la disponibilidad de todos tus equipos informacticos de tu empresa</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="serv-mantenimiento-tecnico">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
