@@ -183,6 +183,11 @@ h6,
         color: var(--primary);
     }
 }
+@media (max-width: 345px) {
+    .imgLogo {
+        width: 70%;
+    }
+}
 
 
 @media (min-width: 992px) {
