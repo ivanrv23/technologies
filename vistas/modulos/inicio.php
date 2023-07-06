@@ -48,7 +48,7 @@
                         </div>
                         <div class="ps-4">
                             <h5 class="text-white mb-0">Clientes felices</h5>
-                            <h1 class="text-white mb-0" data-toggle="counter-up">7</h1>
+                            <h1 class="text-white mb-0" data-toggle="counter-up">37</h1>
                         </div>
                     </div>
                 </div>
@@ -59,7 +59,7 @@
                         </div>
                         <div class="ps-4">
                             <h5 class="text-primary mb-0">Proyectos realizados</h5>
-                            <h1 class="mb-0" data-toggle="counter-up">10</h1>
+                            <h1 class="mb-0" data-toggle="counter-up">15</h1>
                         </div>
                     </div>
                 </div>
