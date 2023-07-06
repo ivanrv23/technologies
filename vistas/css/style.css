@@ -551,7 +551,7 @@ h6,
 
 /* imagen geomekh */
 .bg-header-geomekh {
-    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/geomekh/geomekh-1.jpg) center center no-repeat;
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/geomekh/geomekh_enterprice.jpg) center center no-repeat;
     background-size: cover;
 }
 
@@ -569,7 +569,7 @@ h6,
 
 /* imagen sisvent*/
 .bg-header-sisvent{
-    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/sisvent/sisvent-mockup.png) center center no-repeat;
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/sisvent/sisvent-mockup.jpg) center center no-repeat;
     background-size: cover;
 }
 
@@ -587,7 +587,22 @@ h6,
 
 
 /* zoom de imagenes con ventana emergente*/
-/* 
+
+/* .container.gallery-container {
+    background-color: #fff;
+    color: #35373a;
+    min-height: auto;
+}
+.tz-gallery {
+    padding: 40px;
+    background-color: #34AD54;
+}
+     */
+
+
+
+
+/*  
 body {
     background-color: #434c50;
     min-height: 100vh;
@@ -602,13 +617,14 @@ body {
     padding: 30px 50px;
 }
 
+para los textos- no se utilia
 .gallery-container h1 {
     text-align: center;
     margin-top: 50px;
     font-family: 'Droid Sans', sans-serif;
     font-weight: bold;
 }
-
+para los textos- no se utilia
 .gallery-container p.page-description {
     text-align: center;
     margin: 25px auto;
@@ -618,7 +634,7 @@ body {
 
 .tz-gallery {
     padding: 40px;
-}
+} */
 
 /* Override bootstrap column paddings */
 /* .tz-gallery .row > div {
@@ -673,7 +689,7 @@ body {
     body {
         padding: 0;
     }
-}  */
+}   */
 /* ------------------------------------------- */
 
 

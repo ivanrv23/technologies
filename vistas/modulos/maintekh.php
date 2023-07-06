@@ -9,6 +9,48 @@
 <!-- Navbar End -->
 
 
+<!-- imagenes con zoom -->
+<!-- <div class="container gallery-container" >
+    <div class="tz-gallery">
+        <div class="row">
+
+            <div class="col-sm-6 col-md-4">
+                <a class="lightbox" href="vistas/img/maintekh/maintekh-1.jpg">
+                    <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-1.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <a class="lightbox" href="vistas/img/maintekh/maintekh-2.jpg">
+                    <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-2.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <a class="lightbox" href="vistas/img/maintekh/maintekh-3.jpg">
+                    <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-3.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <a class="lightbox" href="vistas/img/maintekh/maintekh-4.jpg">
+                    <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-4.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <a class="lightbox" href="vistas/img/maintekh/maintekh-5.jpg">
+                    <img class="img-fluid rounded" src="vistas/img/maintekh/maintekh-5.jpg" alt="">
+                </a>
+            </div>
+            
+        </div>
+    </div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+<script>
+    baguetteBox.run('.tz-gallery');
+</script> -->
+
+
+
+
 <!-- <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
