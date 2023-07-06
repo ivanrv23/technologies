@@ -30,13 +30,16 @@
     </div>
     <!-- Topbar End -->
     <div class="container-fluid position-relative p-0" id="ini">
-        <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
-            <a href="inicio" class="navbar-brand p-0">
-                <!-- <h1 class="m-0"><i class="fa fa-user-tie me-2"></i>Startup</h1> -->
-                <img class="img-fluid rounded logoCabeceraNegro" src="vistas/img/logo-technologies-n.png">
-                <img class="img-fluid rounded logoCabeceraBlanco" src="vistas/img/logo-technologies-b.png">
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+        <nav class="navbar navbar-expand-lg navbar-dark px-3 py-3 py-lg-0">
+            <div class="col col-lg-3 col-sm-6" style="margin-top: 20px;">
+                <a href="inicio" class="navbar-brand">
+                    <!-- <h1 class="m-0"><i class="fa fa-user-tie me-2"></i>Startup</h1> -->
+                    <img class="imgLogo img-fluid rounded logoCabeceraNegro" src="vistas/img/logo-technologies-n.png">
+                    <img class="imgLogo img-fluid rounded logoCabeceraBlanco" src="vistas/img/logo-technologies-b.png">
+                </a>
+            </div>
+
+            <button class="navbar-toggler small" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                 <span class="fa fa-bars"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -73,4 +76,5 @@
                 </div>
                 <a href="https://api.whatsapp.com/send?phone=997226188&text=Buen%20d%C3%ADa,%20quiero%20m%C3%A1s%20informaci%C3%B3n" target="_blank" class="btn btn-success py-2 px-3 ms-3">Chatear <i class="fab fa-brands fa-whatsapp"></i></a>
             </div>
+
         </nav>

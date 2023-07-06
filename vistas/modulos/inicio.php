@@ -6,7 +6,7 @@
                 <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                     <div class="p-3" style="max-width: 900px;">
                         <h5 class="text-white text-uppercase mb-3 animated slideInDown">Creatividad e Innovación</h5>
-                        <h1 class="display-1 text-white mb-md-4 animated zoomIn">Si lo puedes imaginar, lo podemos crear</h1>
+                        <h2 class="display-1 text-white mb-md-4 animated zoomIn">Si lo puedes imaginar, lo podemos crear</h2>
                         <a href="#sc" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Realizar cotización</a>
                         <a href="contacto" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contactar</a>
                     </div>
@@ -420,7 +420,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                     <div class="blog-item bg-light rounded overflow-hidden">
                         <div class="blog-img position-relative overflow-hidden">
-                            <img class="img-fluid" src="vistas/img/sistema-trujillo-mockup.jpg" alt="">
+                            <img class="img-fluid" src="vistas/img/geomekh/geomekh_enterprice.jpg" alt="">
                             <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">GEOMEKH ENTERPRISE</a>
                         </div>
                         <div class="p-4">
@@ -430,7 +430,7 @@
                             </div>
                             <h4 class="mb-3">Sistema completo para la clasificación geomecánica del macizo rocoso</h4>
                             <p style="text-align: justify;">¿Eres una empresa de geomecánica? Lleva la clasificación geomecánica del macizo rocoso al siguiente nivel.
-                                Obtén datos precisos en tiempo real, aplica los métodos más confiables y genera informes detallados con gráficos impactantes desde cualquier plataforma
+                                Obtén datos precisos en tiempo real, aplica los métodos más confiables y genera  y gráficos detallados.
                                 <a class="text-uppercase" href="mantenimiento">Conocer más <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
@@ -438,7 +438,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                     <div class="blog-item bg-light rounded overflow-hidden">
                         <div class="blog-img position-relative overflow-hidden">
-                            <img class="img-fluid" src="vistas/img/sisvent-mockup.png" alt="">
+                            <img class="img-fluid" src="vistas/img/sisvent/sisvent-mockup.jpg" alt="">
                             <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">SISTEMA DE VENTAS</a>
                         </div>
                         <div class="p-4">
