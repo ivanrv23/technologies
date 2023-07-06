@@ -76,6 +76,7 @@
             $_GET["ruta"] == "maintekh" ||
             $_GET["ruta"] == "logtekh" ||
             $_GET["ruta"] == "geomekh" ||
+            $_GET["ruta"] == "geomekh-enterprise" ||
             $_GET["ruta"] == "mineral-test" ||
             $_GET["ruta"] == "mantenimiento" ||
             $_GET["ruta"] == "sisvent"

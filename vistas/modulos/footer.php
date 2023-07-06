@@ -35,7 +35,7 @@
                                 <p class="mb-0">+51 997 226 188</p>
                             </div>
                             <div class="d-flex mt-4">
-                                <!-- <a class="btn btn-primary btn-square me-2" href="#"><i class="fab fa-twitter fw-normal"></i></a> -->
+                                <!-- <a class="btn btn-primary btn-square me-2" href="#"><i class="fab fa-tiktok"></i></a> -->
                                 <a class="btn btn-primary btn-square me-2" href="https://www.facebook.com/profile.php?id=100090164260037" target="_blank"><i class="fab fa-facebook-f fw-normal"></i></a>
                                 <a class="btn btn-primary btn-square me-2" href="https://pe.linkedin.com/in/geotekh-technologies-6b4190261" target="_blank"><i class="fab fa-linkedin-in fw-normal"></i></a>
                                 <a class="btn btn-primary btn-square " href="https://www.instagram.com/geotekh_technologies/" target="_blank"><i class="fab fa-instagram fw-normal"></i></a>
