@@ -30,13 +30,16 @@
     </div>
     <!-- Topbar End -->
     <div class="container-fluid position-relative p-0" id="ini">
-        <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
-            <a href="inicio" class="navbar-brand p-0">
-                <!-- <h1 class="m-0"><i class="fa fa-user-tie me-2"></i>Startup</h1> -->
-                <img class="img-fluid rounded logoCabeceraNegro" src="vistas/img/logo-technologies-n.png">
-                <img class="img-fluid rounded logoCabeceraBlanco" src="vistas/img/logo-technologies-b.png">
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+        <nav class="navbar navbar-expand-lg navbar-dark px-3 py-3 py-lg-0">
+            <div class="col-6" style="margin-top: 20px;">
+                <a href="inicio" class="navbar-brand">
+                    <!-- <h1 class="m-0"><i class="fa fa-user-tie me-2"></i>Startup</h1> -->
+                    <img class="imgLogo img-fluid rounded logoCabeceraNegro" src="vistas/img/logo-technologies-n.png">
+                    <img class="imgLogo img-fluid rounded logoCabeceraBlanco" src="vistas/img/logo-technologies-b.png">
+                </a>
+            </div>
+
+            <button class="navbar-toggler small" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                 <span class="fa fa-bars"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
