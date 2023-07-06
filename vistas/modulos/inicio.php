@@ -5,8 +5,8 @@
                 <img class="w-100" src="vistas/img/imagenes/foto-04.jpg" alt="Image">
                 <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                     <div class="p-3" style="max-width: 900px;">
-                        <h5 class="text-white text-uppercase mb-3 animated slideInDown">Creatividad e Innovación</h5>
-                        <h2 class="display-1 text-white mb-md-4 animated zoomIn">Si lo puedes imaginar, lo podemos crear</h2>
+                        <h5 class="tx1 text-white text-uppercase mb-3 animated slideInDown">Creatividad e Innovación</h5>
+                        <h2 class="tx2 display-1 text-white mb-md-4 animated zoomIn">Si lo puedes imaginar, lo podemos crear</h2>
                         <a href="#sc" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Realizar cotización</a>
                         <a href="contacto" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contactar</a>
                     </div>
@@ -48,7 +48,7 @@
                         </div>
                         <div class="ps-4">
                             <h5 class="text-white mb-0">Clientes felices</h5>
-                            <h1 class="text-white mb-0" data-toggle="counter-up">7</h1>
+                            <h1 class="text-white mb-0" data-toggle="counter-up">37</h1>
                         </div>
                     </div>
                 </div>
@@ -59,7 +59,7 @@
                         </div>
                         <div class="ps-4">
                             <h5 class="text-primary mb-0">Proyectos realizados</h5>
-                            <h1 class="mb-0" data-toggle="counter-up">10</h1>
+                            <h1 class="mb-0" data-toggle="counter-up">15</h1>
                         </div>
                     </div>
                 </div>
