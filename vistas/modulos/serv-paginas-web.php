@@ -175,7 +175,7 @@
                         <div class="d-flex justify-content-between mb-2"><span>Servicio de soporte por correo electrónico.</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-2"><span>Posicionamiento en buscadores.</span><i class="fa fa-times text-danger pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-2"><span>Formulario de contacto</span><i class="fa fa-times text-danger pt-1"></i></div>
-                        <<a href="" class="btn btn-primary py-2 px-4 mt-4">Comprar</a>
+                        <a href="" class="btn btn-primary py-2 px-4 mt-4">LO QUIERO</a>
                     </div>
                 </div>
             </div>
@@ -204,7 +204,7 @@
                         <div class="d-flex justify-content-between mb-2"><span>Servicio de soporte por correo y chat.</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-2"><span>Posicionamiento en buscadores.</span><i class="fa fa-times text-danger pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-2"><span>Formulario de contacto</span><i class="fa fa-times text-danger pt-1"></i></div>
-                        <a href="" class="btn btn-primary py-2 px-4 mt-4">Comprar</a>
+                        <a href="" class="btn btn-primary py-2 px-4 mt-4">LO QUIERO</a>
                     </div>
                 </div>
             </div>
@@ -231,7 +231,7 @@
                         <div class="d-flex justify-content-between mb-2"><span>Servicio de soporte por correo y chat.</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-2"><span>Posicionamiento en buscadores.</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-2"><span>Formulario de contacto</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <a href="" class="btn btn-primary py-2 px-4 mt-4">Comprar</a>
+                        <a href="" class="btn btn-primary py-2 px-4 mt-4">LO QUIERO</a>
                     </div>
                 </div>
             </div>

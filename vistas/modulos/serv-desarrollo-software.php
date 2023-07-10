@@ -19,10 +19,10 @@
                 <p style="text-align: justify;">Creamos aplicativos profesionales desarrollados a medida para tu empresa. Nuestro objetivo es optimizar tus procesos y aplicar las últimas tecnologías, manteniéndonos siempre actualizados con el mercado actual. Nos enfocamos en brindar a nuestros clientes productos de excelencia, confiables y seguros, garantizando la confidencialidad, integridad y seguridad de sus datos.</p>
                 <div class="row g-0 mb-3">
                     <div class="col-sm-12 wow zoomIn" data-wow-delay="0.2s">
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Mayor eficiencia, agilidad y rendimiento en tus operaciones.</h5>
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Automatización de procesos.</h5>
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Mejor toma de desiciones.</h5>
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Ventaja competitiva.</h5>
+                        <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Mayor eficiencia, agilidad y rendimiento en tus operaciones.</h6>
+                        <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Automatización de procesos.</h6>
+                        <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Mejor toma de desiciones.</h6>
+                        <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Ventaja competitiva.</h6>
                     </div>
                 </div>
                 <div class="d-flex align-items-center mb-4 wow fadeIn" data-wow-delay="0.6s">
