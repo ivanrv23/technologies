@@ -94,12 +94,15 @@
                         <h1 class="display-5 mb-3">
                             <small class="align-top" style="font-size: 22px; line-height: 45px;">S/.</small>129.90<small class="align-bottom" style="font-size: 16px; line-height: 40px;">/ Año</small>
                         </h1>
-                        <div class="d-flex justify-content-between mb-3"><span>2 Subdominios</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <div class="d-flex justify-content-between mb-3"><span>1 GB de almacenamiento</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <div class="d-flex justify-content-between mb-3"><span>Dominios como .com, .net, .org</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <div class="d-flex justify-content-between mb-3"><span>5 cuentas correo profesional</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <div class="d-flex justify-content-between mb-2"><span>Certificación SSL gratuito</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <a href="contacto" class="btn btn-primary py-2 px-4 mt-4">Contratar</a>
+                        <div class="d-flex justify-content-between mb-3"><span>1 GB de Almacenamiento en disco.</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Dominio gratuito durante 1 año.</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Dominios como .com, .net, site, online, .tech, com.mx, .org</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>2 Subdominios.</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>5 Correos corporativos</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>DNS superrápido con Certificación SSL</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>Servicio de Soporte por correo electrónico</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>Sin anuncios</span><i class="fa fa-check text-primary pt-1"></i></div>
+                         <a href="contacto" class="btn btn-primary py-2 px-4 mt-4">LO QUIERO</a>
                     </div>
                 </div>
             </div>
@@ -111,14 +114,17 @@
                     </div>
                     <div class="p-5 pt-0">
                         <h1 class="display-5 mb-3">
-                            <small class="align-top" style="font-size: 22px; line-height: 45px;">$</small>169.90<small class="align-bottom" style="font-size: 16px; line-height: 40px;">/ Año</small>
+                            <small class="align-top" style="font-size: 22px; line-height: 45px;">S/.</small>169.90<small class="align-bottom" style="font-size: 16px; line-height: 40px;">/ Año</small>
                         </h1>
-                        <div class="d-flex justify-content-between mb-3"><span>5 Subdominios</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <div class="d-flex justify-content-between mb-3"><span>2 GB de almacenamiento</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <div class="d-flex justify-content-between mb-3"><span>Dominios como .com, .net, .org</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <div class="d-flex justify-content-between mb-3"><span>10 cuentas correo profesional</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <div class="d-flex justify-content-between mb-2"><span>Certificación SSL gratuito</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <a href="contacto" class="btn btn-primary py-2 px-4 mt-4">Contratar</a>
+                        <div class="d-flex justify-content-between mb-3"><span>2 GB de Almacenamiento en disco.</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Dominio gratuito durante 1 año.</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Dominios como .com, .net, site, online, .tech, com.mx, .org</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>5 Subdominios.</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>10 Correos corporativos</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>DNS superrápido con Certificación SSL</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>Servicio de Soporte por correo electrónico y chat</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>Sin anuncios</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <a href="contacto" class="btn btn-primary py-2 px-4 mt-4">LO QUIERO</a>
                     </div>
                 </div>
             </div>
@@ -130,14 +136,17 @@
                     </div>
                     <div class="p-5 pt-0">
                         <h1 class="display-5 mb-3">
-                            <small class="align-top" style="font-size: 22px; line-height: 45px;">$</small>199.90<small class="align-bottom" style="font-size: 16px; line-height: 40px;">/ Año</small>
+                            <small class="align-top" style="font-size: 22px; line-height: 45px;">S/.</small>199.90<small class="align-bottom" style="font-size: 16px; line-height: 40px;">/ Año</small>
                         </h1>
-                        <div class="d-flex justify-content-between mb-3"><span>10 Subdominios</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <div class="d-flex justify-content-between mb-3"><span>5 GB de almacenamiento</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <div class="d-flex justify-content-between mb-3"><span>Dominios como .com, .net, .org</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <div class="d-flex justify-content-between mb-3"><span>Correos corporativos ilimitados</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <div class="d-flex justify-content-between mb-2"><span>Certificación SSL gratuito</span><i class="fa fa-check text-primary pt-1"></i></div>
-                        <a href="contacto" class="btn btn-primary py-2 px-4 mt-4">Contratar</a>
+                        <div class="d-flex justify-content-between mb-3"><span>5 GB de Almacenamiento en disco.</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Dominio gratuito durante 1 año.</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>Dominios como .com, .net, site, online, .tech, com.mx, .org</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-3"><span>10 Subdominios.</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>Correos corporativos ilimitados</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>DNS superrápido con Certificación SSL</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>Servicio de Soporte por correo electrónico y chat</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <div class="d-flex justify-content-between mb-2"><span>Sin anuncios</span><i class="fa fa-check text-primary pt-1"></i></div>
+                        <a href="contacto" class="btn btn-primary py-2 px-4 mt-4">LO QUIERO</a>
                     </div>
                 </div>
             </div>

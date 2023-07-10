@@ -87,21 +87,21 @@
                 <div class="col-md-6 col-sm-12">
                     <div class="section-title position-relative pb-3 mb-5">
                         <h5 class="fw-bold text-primary text-uppercase">Sobre nosotros</h5>
-                        <h1 class="mb-0">Contamos con mas de 10 años ofreciendo los mejores servicios tecnológicos para empresas e instituciones</h1>
+                        <h1 class="mb-0">Contamos con más de 10 años ofreciendo los mejores servicios tecnológicos para empresas e instituciones</h1>
                     </div>
                     <p class="mb-4">Somos un equipo de especialistas en soluciones empresariales de tecnología, brindando confianza, compromiso y calidad en cada uno de nuestros servicios, garantizando resultados eficientes.</p>
                     <div class="row g-0 mb-3">
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Orientación al cliente</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Innovación constante</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Competitividad</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Equipo de profesionales</h5>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Orientación al cliente</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Innovación constante</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Competitividad</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Equipo de profesionales</h6>
                         </div>
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.4s">
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Seguridad</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Transparencia</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Soporte 24/7</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Precios accesibles</h5>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Seguridad</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Transparencia</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Soporte 24/7</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Precios accesibles</h6>
                         </div>
                     </div>
                     <div class="d-flex align-items-center mb-4 wow fadeIn" data-wow-delay="0.6s">

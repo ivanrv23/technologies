@@ -38,16 +38,16 @@
                     <p class="mb-4">Te ayudamos con el diseño y creacion de tu propia página web. Repotencia tu negocio o empresa llegando a más personas y multiplica tus ventas</p>
                     <div class="row g-0 mb-3">
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Orientación al cliente</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Innovación constante</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Competitividad</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Equipo de profesionales</h5>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Orientación al cliente</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Innovación constante</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Competitividad</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Equipo de profesionales</h6>
                         </div>
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.4s">
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Seguridad</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Compromiso</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Soporte 24/7</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Precios accesibles</h5>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Seguridad</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Compromiso</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Soporte 24/7</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Precios accesibles</h6>
                         </div>
                     </div>
                     <div class="d-flex align-items-center mb-4 wow fadeIn" data-wow-delay="0.6s">
@@ -56,7 +56,7 @@
                         </div>
                         <div class="ps-4">
                             <h5 class="mb-2">Para dudas y consultas, comunicarse al número</h5>
-                            <h4 class="text-primary mb-0">+51 997 226 188</h4>
+                            <h5 class="text-primary mb-0">+51 997 226 188</h5>
                         </div>
                     </div>
                     <a href="contacto" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Solicitar cotización</a>
