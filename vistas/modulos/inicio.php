@@ -430,8 +430,8 @@
                             </div>
                             <h4 class="mb-3">Sistema completo para la clasificación geomecánica del macizo rocoso</h4>
                             <p style="text-align: justify;">¿Eres una empresa de geomecánica? Lleva la clasificación geomecánica del macizo rocoso al siguiente nivel.
-                                Obtén datos precisos en tiempo real, aplica los métodos más confiables y genera  y gráficos detallados.
-                                <a class="text-uppercase" href="mantenimiento">Conocer más <i class="bi bi-arrow-right"></i></a>
+                                Obtén datos precisos en tiempo real, aplica los métodos más confiables y genera  y gráficos detallados.</p>
+                                <a class="text-uppercase" href="geomekh-enterprise">Conocer más <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -439,7 +439,7 @@
                     <div class="blog-item bg-light rounded overflow-hidden">
                         <div class="blog-img position-relative overflow-hidden">
                             <img class="img-fluid" src="vistas/img/sisvent/sisvent-mockup.jpg" alt="">
-                            <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">SISTEMA DE VENTAS</a>
+                            <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">SISVEN</a>
                         </div>
                         <div class="p-4">
                             <div class="d-flex mb-3">
