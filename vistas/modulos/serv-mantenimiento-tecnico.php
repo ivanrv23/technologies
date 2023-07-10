@@ -19,10 +19,10 @@
                 <p>En Geotekh Technologies, ofrecemos servicios especializados en mantenimiento preventivo y correctivo de equipos tecnológicos para asegurar un rendimiento óptimo y prolongar la vida útil de tus dispositivos</p>
                 <div class="row g-0 mb-3">
                     <div class="col-sm-12 wow zoomIn" data-wow-delay="0.2s">
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Reducción de costos en mantenimiento.</h5>
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Alarga la vida útil de tus equipos informáticos.</h5>
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Evita fallas graves en tus equipos y reparaciones costosas.</h5>
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Reduce el número de interrupciones.</h5>
+                        <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Reducción de costos en mantenimiento.</h6>
+                        <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Alarga la vida útil de tus equipos informáticos.</h6>
+                        <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Evita fallas graves en tus equipos y reparaciones costosas.</h6>
+                        <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Reduce el número de interrupciones.</h6>
                     </div>
                 </div>
                 <div class="d-flex align-items-center mb-4 wow fadeIn" data-wow-delay="0.6s">
@@ -31,7 +31,7 @@
                     </div>
                     <div class="ps-4">
                         <h5 class="mb-2">Para dudas y consultas, comunicarse al número</h5>
-                        <h4 class="text-primary mb-0">+51 997 226 188</h4>
+                        <h5 class="text-primary mb-0">+51 997 226 188</h5>
                     </div>
                 </div>
                 <a href="contacto" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Solicitar cotización</a>
@@ -39,7 +39,7 @@
             </div>
             <div class="col-lg-5" style="min-height: 500px;">
                 <div class="position-relative h-100">
-                    <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="vistas/img/about.jpg" style="object-fit: cover;">
+                    <img class="position-absolute w-100 h-80 rounded wow zoomIn" data-wow-delay="0.9s" src="vistas/img/imagenes/img-mantenimiento-1.png" style="object-fit: cover;">
                 </div>
             </div>
         </div>
