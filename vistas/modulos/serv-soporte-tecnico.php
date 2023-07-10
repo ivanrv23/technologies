@@ -82,26 +82,15 @@
                 <div class="col-lg-4">
                     <div class="row g-5">
                         <div class="col-12 wow zoomIn" data-wow-delay="0.2s">
-                            <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                                <i class="fa fa-cubes text-white"></i>
-                            </div>
-                            <h5>Atención inmediata (Presencial o remoto)</h5>
+                            <h6><i class="fa fa-check text-primary pt-1"></i> Atención inmediata (Presencial o remoto)</h6>
                             <p class="mb-0"></p>
                         </div>
-
-
-                        <div class="col-12 wow zoomIn" data-wow-delay="0.4s">
-                            <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                                <i class="fa fa-cubes text-white"></i>
-                            </div>
-                            <h5>Elaboración de manual de sistemas y guías de ayuda.</h5>
+                        <div> class="col-12 wow zoomIn" data-wow-delay="0.4s">
+                            <h6><i class="fa fa-check text-primary pt-1"></i> Elaboración de manual de sistemas y guías de ayuda.</h6>
                             <p class="mb-0"></p>
                         </div>
                         <div class="col-12 wow zoomIn" data-wow-delay="0.6s">
-                            <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                                <i class="fa fa-award text-white"></i>
-                            </div>
-                            <h5>Mantenimiento preventivo de equipos de computación</h5>
+                            <h6><i class="fa fa-check text-primary pt-1"></i> Mantenimiento preventivo de equipos de computación</h6>
                             <p class="mb-0"></p>
                         </div>
                     </div>
@@ -111,24 +100,15 @@
                 <div class="col-lg-4">
                     <div class="row g-5">
                         <div class="col-12 wow zoomIn" data-wow-delay="0.4s">
-                            <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                                <i class="fa fa-users-cog text-white"></i>
-                            </div>
-                            <h5>Soluciones informáticas acorde con las necesidades del cliente.</h5>
+                            <h6><i class="fa fa-check text-primary pt-1"></i> Soluciones informáticas acorde con las necesidades del cliente.</h6>
                             <p class="mb-0"></p>
                         </div>
                         <div class="col-12 wow zoomIn" data-wow-delay="0.6s">
-                            <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                                <i class="fa fa-phone-alt text-white"></i>
-                            </div>
-                            <h5>Soporte especializado a usuarios</h5>
+                            <h6><i class="fa fa-check text-primary pt-1"></i> Soporte especializado a usuarios</h6>
                             <p class="mb-0"> </p>
                         </div>
                         <div class="col-12 wow zoomIn" data-wow-delay="0.8s">
-                            <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                                <i class="fa fa-users-cog text-white"></i>
-                            </div>
-                            <h5>Administración de Hosting (Hosting aparte)</h5>
+                            <h6><i class="fa fa-check text-primary pt-1"></i> Administración de Hosting (Hosting aparte)</h6>
                             <p class="mb-0"></p>
                         </div>
                     </div>
@@ -138,24 +118,18 @@
                 <div class="col-lg-4">
                     <div class="row g-5">
                         <div class="col-12 wow zoomIn" data-wow-delay="0.2s">
-                            <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                                <i class="fa fa-cubes text-white"></i>
-                            </div>
-                            <h5>Análisis y diagnóstico de equipos informáticos</h5>
+                           
+                            <h6><i class="fa fa-check text-primary pt-1"></i> Análisis y diagnóstico de equipos informáticos</h6>
                             <p class="mb-0"></p>
                         </div>
                         <div class="col-12 wow zoomIn" data-wow-delay="0.4s">
-                            <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                                <i class="fa fa-cubes text-white"></i>
-                            </div>
-                            <h5>Soporte acorde con el nivel de incidencia</h5>
+                           
+                            <h6><i class="fa fa-check text-primary pt-1"></i> Soporte acorde con el nivel de incidencia</h6>
                             <p class="mb-0"></p>
                         </div>
                         <div class="col-12 wow zoomIn" data-wow-delay="0.6s">
-                            <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                                <i class="fa fa-award text-white"></i>
-                            </div>
-                            <h5>Informe mensual, y más</h5>
+                            
+                            <h6><i class="fa fa-check text-primary pt-1"></i> Informe mensual, y más</h5>
                             <p class="mb-0"></p>
                         </div>
                     </div>
@@ -168,33 +142,13 @@
 
 
 <!-- Service Start -->
-<div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+<!-- <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
     <div class="container py-5">
         <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
             <h5 class="fw-bold text-primary text-uppercase">Nuestros Servicios</h5>
             <h1 class="mb-0">Soporte técnico especializado</h1>
         </div>
-        <div class="row g-5">
-            <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
-                <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
-                    <div class="service-icon">
-                        <i class="fab fa-android text-white"></i>
-                    </div>
-                    <h4 class="mb-3">Play Store</h4>
-                    <p class="m-0">Te asesoramos para que puedas subir tus aplicativos a Play Store para android.</p>
-
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
-                <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
-                    <div class="service-icon">
-                        <i class="fa fa-search text-white"></i>
-                    </div>
-                    <h4 class="mb-3">App Store</h4>
-                    <p class="m-0">Te asesoramos para que subas tus aplicativos a la App Store de Apple.</p>
-
-                </div>
-            </div>
+        <div> class="row g-5">
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
                 <div class="position-relative bg-primary rounded h-100 d-flex flex-column align-items-center justify-content-center text-center p-5">
                     <h3 class="text-white mb-3">Contáctate con nosotros</h3>
@@ -204,5 +158,5 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- Service End -->
