@@ -5,10 +5,10 @@
                 <img class="w-100" src="vistas/img/imagenes/foto-04.jpg" alt="Image">
                 <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                     <div class="p-3" style="max-width: 900px;">
-                        <h5 class="tx1 text-white text-uppercase mb-3 animated slideInDown">Creatividad e Innovación</h5>
+                        <h5 class="mt-4 tx1 text-white text-uppercase mb-3 animated slideInDown">Creatividad e Innovación</h5>
                         <h2 class="tx2 display-1 text-white mb-md-4 animated zoomIn">Si lo puedes imaginar, lo podemos crear</h2>
-                        <a href="#sc" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Realizar cotización</a>
-                        <a href="contacto" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contactar</a>
+                        <a href="#sc" class="btn btn-sm btn-primary py-md-3 px-md-5 me-3 animated slideInLeft cotiza">Realizar cotización</a>
+                        <a href="contacto" class="btn btn-sm btn-outline-light py-md-3 px-md-5 animated slideInRight conta">Contactar</a>
                     </div>
                 </div>
             </div>
