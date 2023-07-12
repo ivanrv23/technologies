@@ -38,7 +38,7 @@
                     </div>
                     <div class="ps-4">
                         <h6 class="mb-2">Para dudas y consultas, comunicarse al número</h6>
-                        <h4 class="text-primary mb-0">+51 997 226 188</h4>
+                        <h6 class="text-primary mb-0">+51 997 226 188</h6>
                     </div>
                 </div>
                 <a href="contacto" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Solicitar cotización</a>
@@ -47,15 +47,17 @@
             </div>
             <div class="col-lg-5" style="min-height: 500px;">
                 <div class="position-relative h-100">
-                    <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.4s" src="vistas/img/imagenes/img-app-mobiles.png" style="object-fit: cover;">
+                    <img class="position-absolute w-100 h-99 rounded wow zoomIn" data-wow-delay="0.4s" src="vistas/img/imagenes/img-app-mobiles.png" style="object-fit: cover;">
                 </div>
             </div>
         </div>
     </div>
 </div>
 <!-- Información End -->
+
+
 <!-- Service Start -->
-<div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+<div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
     <div class="container py-5">
         <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
             <h5 class="fw-bold text-primary text-uppercase">Nuestros Servicios</h5>

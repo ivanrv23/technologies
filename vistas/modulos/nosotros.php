@@ -28,8 +28,8 @@
 
 
     <!-- About Start -->
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container py-5">
+    <div class="container-fluid  wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container ">
             <div class="row g-5">
                 <div class="col-lg-7">
                     <div class="section-title position-relative pb-3 mb-5">
@@ -39,16 +39,16 @@
                     <p class="mb-4">Somos un equipo de especialistas en soluciones empresariales de tecnología, brindando confianza, compromiso y calidad en cada uno de nuestros servicios, garantizando resultados eficientes.</p>
                     <div class="row g-0 mb-3">
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Orientación al cliente</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Innovación constante</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Competitividad</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Equipo de profesionales</h5>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Orientación al cliente</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Innovación constante</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Competitividad</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Equipo de profesionales</h6>
                         </div>
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.4s">
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Seguridad</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Compromiso</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Soporte 24/7</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Precios accesibles</h5>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Seguridad</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Compromiso</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Soporte 24/7</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Precios accesibles</h6>
                         </div>
                     </div>
                     <div class="d-flex align-items-center mb-4 wow fadeIn" data-wow-delay="0.6s">
@@ -57,7 +57,7 @@
                         </div>
                         <div class="ps-4">
                             <h5 class="mb-2">Para dudas y consultas, comunicarse al número</h5>
-                            <h4 class="text-primary mb-0">+51 997 226 188</h4>
+                            <h5 class="text-primary mb-0">+51 997 226 188</h5>
                         </div>
                     </div>
                     <a href="contacto" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Solicitar cotización</a>
@@ -74,7 +74,7 @@
 
 
     <!-- Team Start -->
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container-fluid  wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
                 <h5 class="fw-bold text-primary text-uppercase">Equipo de desarrolladores</h5>

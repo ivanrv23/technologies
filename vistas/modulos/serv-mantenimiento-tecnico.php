@@ -30,8 +30,8 @@
                         <i class="fa fa-phone-alt text-white"></i>
                     </div>
                     <div class="ps-4">
-                        <h5 class="mb-2">Para dudas y consultas, comunicarse al número</h5>
-                        <h5 class="text-primary mb-0">+51 997 226 188</h5>
+                        <h6 class="mb-2">Para dudas y consultas, comunicarse al número</h6>
+                        <h6 class="text-primary mb-0">+51 997 226 188</h6>
                     </div>
                 </div>
                 <a href="contacto" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Solicitar cotización</a>
@@ -48,8 +48,8 @@
 <!-- informacion mantenimiento End -->
 
 <!-- Service Start -->
-<div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
-    <div class="container py-5">
+<div class="container-fluid  wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container">
         <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
             <h5 class="fw-bold text-primary text-uppercase">Nuestros Servicios</h5>
             <h1 class="mb-0">Mantenimiento de equipos tecnológicos</h1>
