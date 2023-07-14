@@ -89,12 +89,8 @@
                     <div class="service-icon">
                         <i class="fa fa-shield-alt text-white"></i>
                     </div>
-                    <h4 class="mb-3">VISTA PRINCIPAL</h4>
-                    <p class="m-0">Diseño dinámico</p>
-                    <p class="m-0">Apertura con BD de logueo Geomecánico</p>
-                    <p class="m-0">Información del Sondaje</p>
-                    <p class="m-0">Logueo por corridas (Geomecánico)</p>
-                    <p class="m-0">Logueo por estructuras (Estructural) </p>
+                    <h4 class="mb-3">Vista Principal</h4>
+                    <p class="m-0">Contiene: Diseño dinámico, BD de logueo geomecánico, informacion del sondaje, logeo de corridas y estructuras.</p>
                     <a class="btn btn-lg btn-primary rounded" href="">
                         <i class="bi bi-arrow-right"></i>
                     </a>
@@ -105,8 +101,8 @@
                     <div class="service-icon">
                         <i class="fa fa-chart-pie text-white"></i>
                     </div>
-                    <h4 class="mb-3">Data Analytics</h4>
-                    <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
+                    <h4 class="mb-3">Formulario de registro Logueo</h4>
+                    <p class="m-0">Contiene:</p>
                     <a class="btn btn-lg btn-primary rounded" href="">
                         <i class="bi bi-arrow-right"></i>
                     </a>

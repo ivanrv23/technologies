@@ -13,25 +13,25 @@
     <div class="container">
         <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.6s">
             <div class="card testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/geomekh/geomekh-1.jpg" alt="">
+                <img class="img-fluid rounded" src="vistas/img/geomekh/geomekh-1.jpg" alt="">
             </div>
             <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/geomekh/geomekh-2.jpg" alt="">
+                <img class="img-fluid rounded" src="vistas/img/geomekh/geomekh-2.jpg" alt="">
             </div>
             <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/geomekh/geomekh-3.jpg" alt="">
+                <img class="img-fluid rounded" src="vistas/img/geomekh/geomekh-3.jpg" alt="">
             </div>
             <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/geomekh/geomekh-4.jpg" alt="">
+                <img class="img-fluid rounded" src="vistas/img/geomekh/geomekh-4.jpg" alt="">
             </div>
             <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/geomekh/geomekh-5.jpg" alt="">
+                <img class="img-fluid rounded" src="vistas/img/geomekh/geomekh-5.jpg" alt="">
             </div>
             <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/geomekh/geomekh-6.jpg" alt="">
+                <img class="img-fluid rounded" src="vistas/img/geomekh/geomekh-6.jpg" alt="">
             </div>
             <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/geomekh/geomekh-7.jpg" alt="">
+                <img class="img-fluid rounded" src="vistas/img/geomekh/geomekh-7.jpg" alt="">
             </div>
         </div>
     </div>
@@ -47,7 +47,10 @@
                     <h5 class="fw-bold text-primary text-uppercase">Nuestro Sistema</h5>
                     <h1 class="mb-0">Optimiza el mapeo de taludes desde la palma de tu mano</h1>
                 </div>
-                <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod magna dolore erat amet</p>
+                <p class="mb-4">GEOMEKH busca optimizar la labor de mapeo geomecánico de frentes o celdas del macizo rocoso con el objetivo de tener una herramienta tecnológica que nos va a permitir hacer este estudio geomecánico de forma más dinámica e interactiva y en mucho menor tiempo del que se hace actualmente y así poder identificar un posible incidente geomecánico como los anteriores mencionados, pero en tiempo real e in situ para tomar decisiones y poder prevenirlos.</p>
+                <p class="mb-4"> Geomekh cuenta con tres módulos; el primero “Parámetros” aquí podemos ingresar los datos de forma manual según las teorías de RMR de Bienawski, Q de Barton o GSI de forma que, al culminar el ingreso de datos, con solo presionar un botón nos arrojará los resultados específicos para los datos tomados, generando una base de datos de toda la información que vamos registrando y calculando, además de un reporte en pdf o Excel que podemos exportar. Además, cuenta con ayudas teóricas y videotutoriales para poder tomar los datos de forma adecuada en campo. El segundo módulo “Estereografía” funciona ingresando datos de rumbo y buzamiento de todas las estructuras identificadas en la celda o área de estudio, de forma que el aplicativo puede procesar esta data y generar las respectivas proyecciones estereográficas (Diagrama de planos, Concentración de polos y Diagrama de Roseta) muy similar a como lo hacen los software Stereonet o Dips, con la diferencia de que todo esto se realiza dentro del app Geomekh, esto nos permite identificar los tipos de falla que se puede dar en el macizo rocoso en tiempo real y así poder evitar algún tipo de incidente geomecánico con su detección temprana. Por últimos estamos trabajando en el tercer módulo “Proyectos” el cual tiene las mismas funciones de los módulos anteriores, pero estos están incorporados en uno solo e incluyen más funciones y campos específicos para trabajar en proyectos que tenga cientos y miles de puntos o celdas de estudio como sucede en proyectos de geomecánica para minería y construcción de carreteras. De esta forma estamos llegando tanto a los estudiantes universitarios, profesionales y empresas del rubro.
+                </p>
+
                 <div class="row g-0 mb-3">
                     <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
                         <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Award Winning</h5>

@@ -235,7 +235,7 @@
                     </div>
                     <div class="p-5 pt-0">
                         <h1 class="display-5 mb-3">
-                            <small class="align-top" style="font-size: 22px; line-height: 45px;">S/.</small>120.00<small class="align-bottom" style="font-size: 16px; line-height: 40px;">/ Mes</small>
+                            <small class="align-top" style="font-size: 22px; line-height: 45px;">S/.</small>200.00<small class="align-bottom" style="font-size: 16px; line-height: 40px;">/ Mes</small>
                         </h1>
                         <div class="d-flex justify-content-between mb-3"><span>3 usuarios (1 planner y 2 técnicos)</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-3"><span>Registro de equipos y órdenes de trabajo ilimitados</span><i class="fa fa-check text-primary pt-1"></i></div>
@@ -265,7 +265,7 @@
                     </div>
                     <div class="p-5 pt-0">
                         <h1 class="display-5 mb-3">
-                            <small class="align-top" style="font-size: 22px; line-height: 45px;">S/.</small>200.00<small class="align-bottom" style="font-size: 16px; line-height: 40px;">/ Mes</small>
+                            <small class="align-top" style="font-size: 22px; line-height: 45px;">S/.</small>300.00<small class="align-bottom" style="font-size: 16px; line-height: 40px;">/ Mes</small>
                         </h1>
                         <div class="d-flex justify-content-between mb-3"><span>6 usuarios (2 planners y 4 técnicos)</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-3"><span>Registro de equipos y órdenes de trabajo ilimitados</span><i class="fa fa-check text-primary pt-1"></i></div>
@@ -294,7 +294,7 @@
                         <small class="text-uppercase">Para gran empresas</small>
                     </div>
                     <div class="p-5 pt-0">
-                        <h1 class="display-5 mb-3 text-center">∞</h1>
+                        <h1 class="display-5 mb-3 text-center">Sujeto a cotización</h1>
                         <div class="d-flex justify-content-between mb-3"><span>Usuarios personalizados</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-3"><span>Registro de equipos y órdenes de trabajo ilimitados</span><i class="fa fa-check text-primary pt-1"></i></div>
                         <div class="d-flex justify-content-between mb-3"><span>Catálogo de equipos</span><i class="fa fa-check text-primary pt-1"></i></div>
