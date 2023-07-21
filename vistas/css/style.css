@@ -603,6 +603,22 @@ h6,
 }
 
 
+/*
+STILOS PARA CARD MAS PEQUEÑO
+*/
+
+.card-small {
+    max-width: 300px; /* Ajusta este valor según tus preferencias */
+}
+
+.card-small img {
+    max-width: 100%;
+    height: auto;
+}
+
+/*
+FINALIZACION DE STILOS PARA CARD MAS PEQUEÑO
+*/
 
 
 
