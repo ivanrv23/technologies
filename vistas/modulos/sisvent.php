@@ -8,24 +8,27 @@
 </div>
 <!-- Navbar End -->
 
-<!-- Imágenes Maintekh Start -->
+<!-- Imágenes sisven Start -->
 <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
     <div class="container">
         <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.6s">
-            <div class="card testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/blog-1.jpg" alt="">
+            <div class="card testimonial-item bg-light mx-2 p-1 border-2 border-dark rounded">
+                <img class="img-fluid rounded" src="vistas/img/sisvent/sisvent_1.jpg" alt="">
             </div>
-            <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/blog-1.jpg" alt="">
+            <div class="card testimonial-item bg-light mx-2 p-1 border-2 border-dark rounded ">
+                <img class="img-fluid rounded" src="vistas/img/sisvent/sisvent_2.jpg" alt="">
             </div>
-            <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/blog-1.jpg" alt="">
+            <div class="card testimonial-item bg-light mx-2 p-1 border-2 border-dark rounded ">
+                <img class="img-fluid rounded" src="vistas/img/sisvent/sisvent_3.jpg" alt="">
             </div>
-            <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/blog-1.jpg" alt="">
+            <div class="card testimonial-item bg-light mx-2 p-1 border-2 border-dark rounded ">
+                <img class="img-fluid rounded" src="vistas/img/sisvent/sisvent_4.jpg" alt="">
             </div>
-            <div class="testimonial-item bg-light my-4">
-            <img class="img-fluid rounded" src="vistas/img/blog-1.jpg" alt="">
+            <div class="card testimonial-item bg-light mx-2 p-1 border-2 border-dark rounded ">
+                <img class="img-fluid rounded" src="vistas/img/sisvent/sisvent_5.jpg" alt="">
+            </div>
+            <div class="card testimonial-item bg-light mx-2 p-1 border-2 border-dark rounded ">
+                <img class="img-fluid rounded" src="vistas/img/sisvent/sisvent_6.jpg" alt="">
             </div>
         </div>
     </div>
@@ -69,7 +72,7 @@
             </div>
             <div class="col-lg-5" style="min-height: 500px;">
                 <div class="position-relative h-100">
-                    <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="vistas/img/error404.jpg" style="object-fit: cover;">
+                    <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="vistas/img/sisvent/Captura.jpg" style="object-fit: cover;">
                 </div>
             </div>
         </div>

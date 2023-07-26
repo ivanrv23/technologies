@@ -577,7 +577,7 @@ h6,
 
 /* imagen mineral test */
 .bg-header-mineral-test {
-    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/mineral-test/mineral-test-1.jpg) center center no-repeat;
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/mineral-test/fondo_mineral.jpg) center center no-repeat;
     background-size: cover;
 }
 
