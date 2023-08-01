@@ -149,9 +149,9 @@
                     </div>
                     <h4 class="mb-3">Facturación</h4>
                     <p class="m-0">Este módulo incluye cotización y facturación</p>
-                    <a class="btn btn-lg btn-primary rounded" href="">
+                    <!-- <a class="btn btn-lg btn-primary rounded" href="">
                         <i class="bi bi-arrow-right"></i>
-                    </a>
+                    </a> -->
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
@@ -161,9 +161,7 @@
                     </div>
                     <h4 class="mb-3">Registro</h4>
                     <p class="m-0">Este módulo incluye generación de tickets y órdenes de servicio</p>
-                    <a class="btn btn-lg btn-primary rounded" href="">
-                        <i class="bi bi-arrow-right"></i>
-                    </a>
+                    
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
@@ -173,9 +171,7 @@
                     </div>
                     <h4 class="mb-3">Programación</h4>
                     <p class="m-0">Este módulo sirve para establecer fechas y asignar técnicos para que realicen los mantenimientos respectivos</p>
-                    <a class="btn btn-lg btn-primary rounded" href="">
-                        <i class="bi bi-arrow-right"></i>
-                    </a>
+                    
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
@@ -185,9 +181,7 @@
                     </div>
                     <h4 class="mb-3">Órdenes de trabajo</h4>
                     <p class="m-0">Este módulo incluye el registro de las actividades que realiza el técnico en cada equipo y el registro de solicitudes para cambios de piezas y repuestos</p>
-                    <a class="btn btn-lg btn-primary rounded" href="">
-                        <i class="bi bi-arrow-right"></i>
-                    </a>
+                    
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
@@ -197,9 +191,7 @@
                     </div>
                     <h4 class="mb-3">Reportes</h4>
                     <p class="m-0">Este módulo incluye la generación de reportes de acuerdo a los parámetros y fechas, descargas los resultados en formatos Excel y PDF.</p>
-                    <a class="btn btn-lg btn-primary rounded" href="">
-                        <i class="bi bi-arrow-right"></i>
-                    </a>
+                    
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
@@ -209,9 +201,7 @@
                     </div>
                     <h4 class="mb-3">Administración</h4>
                     <p class="m-0">Incluye el control de accesos al sistema, registro de equipos, registro de técnicos, registro de clientes y configuración en general</p>
-                    <a class="btn btn-lg btn-primary rounded" href="">
-                        <i class="bi bi-arrow-right"></i>
-                    </a>
+                    
                 </div>
             </div>
         </div>

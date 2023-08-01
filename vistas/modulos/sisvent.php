@@ -49,14 +49,14 @@
                     comprobantes electrónicos. Simplifica tu gestión y maximiza tus ganancias con nuestra solución integral para alcanzar el éxito en tu negocio.</p>
                 <div class="row g-0 mb-3">
                     <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Cotizaciones</h5>
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Ventas</h5>
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Productos</h5>
+                        <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Cotizaciones</h6>
+                        <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Ventas</h6>
+                        <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Productos</h6>
                     </div>
                     <div class="col-sm-6 wow zoomIn" data-wow-delay="0.4s">
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Servicios</h5>
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Compras</h5>
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Reportes</h5>
+                        <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Servicios</h6>
+                        <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Compras</h6>
+                        <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Reportes</h6>
                     </div>
                 </div>
                 <div class="d-flex align-items-center mb-4 wow fadeIn" data-wow-delay="0.6s">
@@ -95,9 +95,7 @@
                     </div>
                     <h4 class="mb-3">Productos</h4>
                     <p class="m-0">Registra tus productos y servicios</p>
-                    <a class="btn btn-lg btn-primary rounded" href="">
-                        <i class="bi bi-arrow-right"></i>
-                    </a>
+                    
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
@@ -107,9 +105,7 @@
                     </div>
                     <h4 class="mb-3">Clientes</h4>
                     <p class="m-0">Registra todos tus clientes</p>
-                    <a class="btn btn-lg btn-primary rounded" href="">
-                        <i class="bi bi-arrow-right"></i>
-                    </a>
+                   
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
@@ -119,9 +115,7 @@
                     </div>
                     <h4 class="mb-3">Ventas</h4>
                     <p class="m-0">Genera tus ventas y emite tus comprobantes electrónicos</p>
-                    <a class="btn btn-lg btn-primary rounded" href="">
-                        <i class="bi bi-arrow-right"></i>
-                    </a>
+                    
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
@@ -131,9 +125,7 @@
                     </div>
                     <h4 class="mb-3">Compras</h4>
                     <p class="m-0">Regitsra todas tus compras y tus gastos</p>
-                    <a class="btn btn-lg btn-primary rounded" href="">
-                        <i class="bi bi-arrow-right"></i>
-                    </a>
+                  
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
@@ -143,9 +135,7 @@
                     </div>
                     <h4 class="mb-3">Reportes</h4>
                     <p class="m-0">Visualiza los gráficos estadísticos y genera tus reportes en Excel.</p>
-                    <a class="btn btn-lg btn-primary rounded" href="">
-                        <i class="bi bi-arrow-right"></i>
-                    </a>
+                   
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
@@ -155,9 +145,7 @@
                     </div>
                     <h4 class="mb-3">Usuarios</h4>
                     <p class="m-0">Genera su usuario a tus empleados y dales roles de acuerdo a su cargo.</p>
-                    <a class="btn btn-lg btn-primary rounded" href="">
-                        <i class="bi bi-arrow-right"></i>
-                    </a>
+                   
                 </div>
             </div>
         </div>

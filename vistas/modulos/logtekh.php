@@ -91,9 +91,7 @@
                     </div>
                     <h4 class="mb-3">Vista Principal</h4>
                     <p class="m-0">Contiene: Diseño dinámico, BD de logueo geomecánico, informacion del sondaje, logeo de corridas y estructuras.</p>
-                    <a class="btn btn-lg btn-primary rounded" href="">
-                        <i class="bi bi-arrow-right"></i>
-                    </a>
+                    
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
@@ -103,9 +101,7 @@
                     </div>
                     <h4 class="mb-3">Formulario de registro Logueo</h4>
                     <p class="m-0">Contiene: campos para registro según parámetros de RMR de Bienaswki o Q de Barton, ademas de contar con ayudas visuales. </p>
-                    <a class="btn btn-lg btn-primary rounded" href="">
-                        <i class="bi bi-arrow-right"></i>
-                    </a>
+                   
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
@@ -115,9 +111,7 @@
                     </div>
                     <h4 class="mb-3"> Reportes </h4>
                     <p class="m-0">Contiene: filtros (sondajes, tramos de fechas, tramos de sondaje) y data resumida del logueo para generar un reporte detallado y luego exportat a Excel.</p>
-                    <a class="btn btn-lg btn-primary rounded" href="">
-                        <i class="bi bi-arrow-right"></i>
-                    </a>
+                   
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
@@ -127,9 +121,7 @@
                     </div>
                     <h4 class="mb-3">Módulo de Estereografía</h4>
                     <p class="m-0">Selecciona el sondaje de tu interés y genera proyecciones estereogáficas(Diagramas de planos, concentración de polos y diagrama de Rosetas), todo esto dentro de nuestro mismo software</p>
-                    <a class="btn btn-lg btn-primary rounded" href="">
-                        <i class="bi bi-arrow-right"></i>
-                    </a>
+                   
                 </div>
             </div>
         
