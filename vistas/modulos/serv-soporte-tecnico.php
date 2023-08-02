@@ -85,7 +85,7 @@
                             <h6><i class="fa fa-check text-primary pt-1"></i> Atención inmediata (Presencial o remoto)</h6>
                             <p class="mb-0"></p>
                         </div>
-                        <div> class="col-12 wow zoomIn" data-wow-delay="0.4s">
+                        <div class="col-12 wow zoomIn" data-wow-delay="0.4s">
                             <h6><i class="fa fa-check text-primary pt-1"></i> Elaboración de manual de sistemas y guías de ayuda.</h6>
                             <p class="mb-0"></p>
                         </div>

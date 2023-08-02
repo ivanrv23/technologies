@@ -160,7 +160,7 @@
     <div class="container py-5">
         <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
             <h5 class="fw-bold text-primary text-uppercase">ERROR 404</h5>
-            <h1 class="mb-0">La página está en desarrollo o no existe</h1>
+            <h1 class="mb-0">La página está en desarrollo </h1>
             <div>
                 <img class="img-fluid rounded" src="vistas/img/error404.jpg" style="width: 60px; height: 60px;">
             </div>

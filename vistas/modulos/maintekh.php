@@ -88,6 +88,7 @@
 </div>
 <!-- Imágenes End -->
 
+
 <!-- Acerca de maintekh Start -->
 <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
     <div class="container py-5">
@@ -97,9 +98,9 @@
                     <h5 class="fw-bold text-primary text-uppercase">Nuestro Sistema</h5>
                     <h1 class="mb-0">Gestiona tus mantenimientos de foma óptima</h1>
                 </div>
-                <p class="mb-4">Simplifica y potencia la gestión de mantenimiento con MAINTEKH: el sistema web completo que incluye cotización, facturación, 
-                    programación de tareas, órdenes de trabajo y mucho más. MAINTEKH es el aliado perfecto para empresas de mantenimiento de línea amarilla, 
-                    equipos industriales, equipos de cómputo, etc. Organiza, controla y genera tus mantenimientos con resultados impactantes, aumenta la 
+                <p class="mb-4">Simplifica y potencia la gestión de mantenimiento con MAINTEKH: el sistema web completo que incluye cotización, facturación,
+                    programación de tareas, órdenes de trabajo y mucho más. MAINTEKH es el aliado perfecto para empresas de mantenimiento de línea amarilla,
+                    equipos industriales, equipos de cómputo, etc. Organiza, controla y genera tus mantenimientos con resultados impactantes, aumenta la
                     productividad, maximiza tus resultados, ahorra tiempo y costos.</p>
                 <div class="row g-0 mb-3">
                     <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
@@ -161,7 +162,7 @@
                     </div>
                     <h4 class="mb-3">Registro</h4>
                     <p class="m-0">Este módulo incluye generación de tickets y órdenes de servicio</p>
-                    
+
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
@@ -171,7 +172,7 @@
                     </div>
                     <h4 class="mb-3">Programación</h4>
                     <p class="m-0">Este módulo sirve para establecer fechas y asignar técnicos para que realicen los mantenimientos respectivos</p>
-                    
+
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
@@ -181,7 +182,7 @@
                     </div>
                     <h4 class="mb-3">Órdenes de trabajo</h4>
                     <p class="m-0">Este módulo incluye el registro de las actividades que realiza el técnico en cada equipo y el registro de solicitudes para cambios de piezas y repuestos</p>
-                    
+
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
@@ -191,7 +192,7 @@
                     </div>
                     <h4 class="mb-3">Reportes</h4>
                     <p class="m-0">Este módulo incluye la generación de reportes de acuerdo a los parámetros y fechas, descargas los resultados en formatos Excel y PDF.</p>
-                    
+
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
@@ -201,7 +202,7 @@
                     </div>
                     <h4 class="mb-3">Administración</h4>
                     <p class="m-0">Incluye el control de accesos al sistema, registro de equipos, registro de técnicos, registro de clientes y configuración en general</p>
-                    
+
                 </div>
             </div>
         </div>
@@ -310,19 +311,19 @@
 </div>
 <!-- Planes End -->
 <div class="modal fade" id="modalVerImagenAmplia" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-        ...
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
-      </div>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                ...
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+        </div>
     </div>
-  </div>
 </div>

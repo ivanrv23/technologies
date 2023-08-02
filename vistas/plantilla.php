@@ -68,7 +68,7 @@
             $_GET["ruta"] == "serv-soporte-redes" ||
             $_GET["ruta"] == "serv-soporte-tecnico" ||
             $_GET["ruta"] == "serv-asesorias" ||
-            
+
             // proyectos
 
             $_GET["ruta"] == "contacto" ||
@@ -111,6 +111,7 @@
     <!-- Template Javascript -->
     <script src="vistas/js/main.js"></script>
     <script src="vistas/js/funciones.js"></script>
+    <script src="vistas/js/zoom.js"></script>
 </body>
 
 </html>

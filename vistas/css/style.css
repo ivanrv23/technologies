@@ -603,9 +603,7 @@ h6,
 }
 
 
-/*
-STILOS PARA CARD MAS PEQUEÑO
-*/
+/*STILOS PARA CARD MAS PEQUEÑO*/
 
 .card-small {
     max-width: 300px; /* Ajusta este valor según tus preferencias */
@@ -616,9 +614,8 @@ STILOS PARA CARD MAS PEQUEÑO
     height: auto;
 }
 
-/*
-FINALIZACION DE STILOS PARA CARD MAS PEQUEÑO
-*/
+/* FINALIZACION DE STILOS PARA CARD MAS PEQUEÑO */
+
 
 
 
