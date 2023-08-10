@@ -571,7 +571,7 @@ h6,
 
 /* imagen geomekh */
 .bg-header-geomekh {
-    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/geomekh/geomekh_enterprice.jpg) center center no-repeat;
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/geomekh/geomekh_v1.jpg) center center no-repeat;
     background-size: cover;
 }
 
