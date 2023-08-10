@@ -70,6 +70,10 @@
                         <h6 class="mb-2">Para consultas:</h6>
                         <h6 class="text-primary mb-0">+51 997 226 188</h6>
                     </div>
+                    <div class="ps-4">
+                        <h6 class="mb-2">Descargar Geomekh</h6>
+                        <a href="https://play.google.com/store/apps/details?id=geotekh.pe.geomekh" class="text-primary mb-0"> Descargar desde la PlayStore</a>
+                    </div>
                 </div>
 
             </div>
